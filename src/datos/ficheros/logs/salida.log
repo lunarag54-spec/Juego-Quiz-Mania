@@ -1,0 +1,291 @@
+08/05/2025 18:20:09: Arranco la aplicación
+08/05/2025 18:20:10: Estamos en modo depuración: true
+08/05/2025 18:20:10: Tamaño de ranking: 10
+08/05/2025 18:20:10: minNumEnterosPregMates: 4
+08/05/2025 18:20:10: maxNumEnterosPregMates: 8
+08/05/2025 18:20:10: minCifraPregMates: 2
+08/05/2025 18:20:10: maxCifraPregMates: 12
+08/05/2025 18:20:10: totalCifrasPregMasterMind: 3
+08/05/2025 18:20:10: maxCifraPregMastermind: 9
+08/05/2025 18:20:10: Jugador humano creado: Sergio    	11
+08/05/2025 18:20:10: Jugador humano creado: Carlos    	7
+08/05/2025 18:20:22: Jugador CPU creado: CPU4      	0
+08/05/2025 18:20:52: Arranco la aplicación
+08/05/2025 18:20:52: Estamos en modo depuración: true
+08/05/2025 18:20:52: Tamaño de ranking: 10
+08/05/2025 18:20:52: minNumEnterosPregMates: 4
+08/05/2025 18:20:52: maxNumEnterosPregMates: 8
+08/05/2025 18:20:52: minCifraPregMates: 2
+08/05/2025 18:20:52: maxCifraPregMates: 12
+08/05/2025 18:20:52: totalCifrasPregMasterMind: 3
+08/05/2025 18:20:52: maxCifraPregMastermind: 9
+08/05/2025 18:20:52: Jugador humano creado: Sergio    	11
+08/05/2025 18:20:52: Jugador humano creado: Carlos    	7
+08/05/2025 18:20:58: Jugador CPU creado: CPU4      	0
+08/05/2025 18:21:13: Jugador CPU creado: CPU3      	0
+08/05/2025 18:21:19: Abro menú de jugadores
+08/05/2025 18:22:17: Muestro lista de jugadores
+08/05/2025 18:22:25: Menu borrar jugador
+08/05/2025 18:22:50: Jugador CPU3 eliminado
+08/05/2025 18:22:53: Muestro lista de jugadores
+08/05/2025 18:22:59: Menu añadir jugador
+08/05/2025 18:23:50: Jugador CPU creado: CPU3      	0
+08/05/2025 18:23:56: Muestro lista de jugadores
+08/05/2025 18:24:17: Menu borrar jugador
+08/05/2025 18:24:31: Jugador CPU4 eliminado
+08/05/2025 18:24:36: Muestro lista de jugadores
+08/05/2025 18:24:55: Menu añadir jugador
+08/05/2025 18:26:19: Jugador CPU creado: CPU4      	0
+08/05/2025 18:26:25: Muestro lista de jugadores
+08/05/2025 18:26:37: Salgo del menú jugadores
+08/05/2025 18:26:43: Comienzo partida
+08/05/2025 18:26:43: Comienza la partida con 4 jugadores: 2 jugadores humanos, 2 jugadores de CPU
+08/05/2025 18:26:44: Jugamos a 2 rondas
+08/05/2025 18:26:44: Inicio partida con 2 jugadores humanos, 2 jugadores de CPU
+08/05/2025 18:26:44: Le toca a Carlos
+08/05/2025 18:26:44: Pregunta de Geografía: Selecciona la ciudad más cercana a Reykjavik ==> (D)
+A. Helsinki
+B. Palma
+C. Malaga
+D. Londres
+08/05/2025 18:26:50: Le toca a Sergio
+08/05/2025 18:26:50: Pregunta de Geografía: Selecciona la ciudad más cercana a Varsovia ==> (A)
+A. Berlin
+B. Valencia
+C. Roma
+D. Viena
+08/05/2025 18:26:55: Le toca a CPU3
+08/05/2025 18:26:58: Le toca a CPU4
+08/05/2025 18:27:01: Le toca a Carlos
+08/05/2025 18:27:01: Pregunta de Matemáticas: Realiza la siguiente operación: 
+5 - 5 * 97 * 12 + 5 ==> (-5810)
+08/05/2025 18:28:00: Le toca a Sergio
+08/05/2025 18:28:00: Pregunta de Mastermind
+08/05/2025 18:28:06: Le toca a CPU3
+08/05/2025 18:28:06: Pregunta de Mastermind
+08/05/2025 18:28:06: Le toca a CPU4
+08/05/2025 18:28:06: Pregunta de Mastermind
+08/05/2025 18:28:06: Fin de partida con 4 jugadores. Ganador ha sido Sergio
+08/05/2025 18:28:54: Grabo lista de Jugadores
+08/05/2025 18:28:54: Paro la aplicación
+08/05/2025 18:51:02: Estamos en modo depuración: true
+08/05/2025 18:51:02: Tamaño de ranking: 10
+08/05/2025 18:51:02: minNumEnterosPregMates: 4
+08/05/2025 18:51:02: maxNumEnterosPregMates: 8
+08/05/2025 18:51:02: minCifraPregMates: 2
+08/05/2025 18:51:02: maxCifraPregMates: 12
+08/05/2025 18:51:02: totalCifrasPregMasterMind: 3
+08/05/2025 18:51:02: maxCifraPregMastermind: 9
+08/05/2025 18:51:08: Estamos en modo depuración: true
+08/05/2025 18:51:08: Tamaño de ranking: 10
+08/05/2025 18:51:08: minNumEnterosPregMates: 4
+08/05/2025 18:51:08: maxNumEnterosPregMates: 8
+08/05/2025 18:51:08: minCifraPregMates: 2
+08/05/2025 18:51:08: maxCifraPregMates: 12
+08/05/2025 18:51:08: totalCifrasPregMasterMind: 3
+08/05/2025 18:51:08: maxCifraPregMastermind: 9
+08/05/2025 18:51:08: Jugador humano creado: Carlos    	9
+08/05/2025 18:51:08: Jugador humano creado: Sergio    	13
+08/05/2025 18:51:08: Jugador CPU creado: CPU3      	0
+08/05/2025 18:51:08: Jugador CPU creado: CPU4      	0
+08/05/2025 18:51:08: Inicio partida con 2 jugadores humanos, 2 jugadores de CPU
+08/05/2025 18:51:08: Le toca a Carlos
+08/05/2025 18:51:08: Pregunta de Geografía: Selecciona la ciudad más cercana a Helsinki ==> (A)
+A. Berlin
+B. Atenas
+C. Budapest
+D. Murcia
+08/05/2025 18:51:24: Le toca a CPU4
+08/05/2025 18:51:24: Pregunta de Mastermind
+08/05/2025 18:51:24: Le toca a CPU3
+08/05/2025 18:51:24: Pregunta de Mastermind
+08/05/2025 18:51:24: Le toca a Sergio
+08/05/2025 18:51:24: Pregunta de Matemáticas: Realiza la siguiente operación: 
+9 + 9 * 11 + 5 + 9 ==> (122)
+08/05/2025 18:52:21: Le toca a Carlos
+08/05/2025 18:52:21: Pregunta de Mastermind
+08/05/2025 18:52:31: Le toca a CPU4
+08/05/2025 18:52:31: Pregunta de Geografía: Selecciona la ciudad más cercana a Bruselas ==> (B)
+A. Sofia
+B. Copenhague
+C. Estocolmo
+D. Valencia
+08/05/2025 18:52:31: Le toca a CPU3
+08/05/2025 18:52:34: Le toca a Sergio
+08/05/2025 18:53:11: Fin de partida con 4 jugadores. Ganador ha sido Sergio
+08/05/2025 19:01:07: Estamos en modo depuración: true
+08/05/2025 19:01:07: Tamaño de ranking: 10
+08/05/2025 19:01:07: minNumEnterosPregMates: 4
+08/05/2025 19:01:07: maxNumEnterosPregMates: 8
+08/05/2025 19:01:07: minCifraPregMates: 2
+08/05/2025 19:01:07: maxCifraPregMates: 12
+08/05/2025 19:01:07: totalCifrasPregMasterMind: 3
+08/05/2025 19:01:07: maxCifraPregMastermind: 9
+08/05/2025 19:01:13: Estamos en modo depuración: true
+08/05/2025 19:01:13: Tamaño de ranking: 10
+08/05/2025 19:01:13: minNumEnterosPregMates: 4
+08/05/2025 19:01:13: maxNumEnterosPregMates: 8
+08/05/2025 19:01:13: minCifraPregMates: 2
+08/05/2025 19:01:13: maxCifraPregMates: 12
+08/05/2025 19:01:13: totalCifrasPregMasterMind: 3
+08/05/2025 19:01:13: maxCifraPregMastermind: 9
+08/05/2025 19:01:13: Jugador humano creado: Carlos    	11
+08/05/2025 19:01:13: Jugador CPU creado: CPU4      	1
+08/05/2025 19:01:13: Jugador CPU creado: CPU3      	0
+08/05/2025 19:01:13: Jugador humano creado: Sergio    	14
+08/05/2025 19:01:13: Inicio partida con 2 jugadores humanos, 2 jugadores de CPU
+08/05/2025 19:01:13: ***** > Le toca a Sergio
+08/05/2025 19:01:13: Pregunta de Geografía: Selecciona la ciudad más cercana a Budapest ==> (A)
+A. Copenhague
+B. Murcia
+C. Bruselas
+D. Madrid
+08/05/2025 19:01:22: ***** > Le toca a Carlos
+08/05/2025 19:01:22: Pregunta de Geografía: Selecciona la ciudad más cercana a Palma ==> (C)
+A. Estocolmo
+B. Helsinki
+C. Bruselas
+D. Praga
+08/05/2025 19:01:28: ***** > Le toca a CPU3
+08/05/2025 19:01:31: ***** > Le toca a CPU4
+08/05/2025 19:01:31: Pregunta de Matemáticas: Realiza la siguiente operación: 
+2 + 897 * 8 * 10 * 5 + 12 ==> (358814)
+08/05/2025 19:01:31: ***** > Le toca a Sergio
+08/05/2025 19:01:31: Pregunta de Geografía: Selecciona la ciudad más cercana a Palma ==> (C)
+A. Varsovia
+B. Oslo
+C. Barcelona
+D. Helsinki
+08/05/2025 19:01:46: ***** > Le toca a Carlos
+08/05/2025 19:01:46: Pregunta de Geografía: Selecciona la ciudad más cercana a Varsovia ==> (D)
+A. Valencia
+B. Helsinki
+C. Paris
+D. Budapest
+08/05/2025 19:01:59: ***** > Le toca a CPU3
+08/05/2025 19:02:02: ***** > Le toca a CPU4
+08/05/2025 19:02:02: Pregunta de Matemáticas: Realiza la siguiente operación: 
+8210 + 811 * 8 ==> (14698)
+08/05/2025 19:02:02: Fin de partida con 4 jugadores. Ganador ha sido Sergio
+08/05/2025 19:03:07: Arranco la aplicación
+08/05/2025 19:03:07: Estamos en modo depuración: true
+08/05/2025 19:03:07: Tamaño de ranking: 10
+08/05/2025 19:03:07: minNumEnterosPregMates: 4
+08/05/2025 19:03:07: maxNumEnterosPregMates: 8
+08/05/2025 19:03:07: minCifraPregMates: 2
+08/05/2025 19:03:07: maxCifraPregMates: 12
+08/05/2025 19:03:07: totalCifrasPregMasterMind: 3
+08/05/2025 19:03:07: maxCifraPregMastermind: 9
+08/05/2025 19:03:07: Jugador humano creado: Sergio    	16
+08/05/2025 19:03:07: Jugador humano creado: Carlos    	11
+08/05/2025 19:03:07: Jugador CPU creado: CPU3      	0
+08/05/2025 19:03:07: Jugador CPU creado: CPU4      	3
+08/05/2025 19:03:13: Comienzo partida
+08/05/2025 19:03:13: Comienza la partida con 4 jugadores: 2 jugadores humanos, 2 jugadores de CPU
+08/05/2025 19:03:15: Jugamos a 2 rondas
+08/05/2025 19:03:15: Inicio partida con 2 jugadores humanos, 2 jugadores de CPU
+08/05/2025 19:03:15: ***** > Le toca a CPU4
+08/05/2025 19:03:15: Pregunta de Matemáticas: Realiza la siguiente operación: 
+8 + 12 + 11 - 11 - 34 ==> (-14)
+08/05/2025 19:03:15: ***** > Le toca a CPU3
+08/05/2025 19:03:18: ***** > Le toca a Carlos
+08/05/2025 19:03:18: Pregunta de Matemáticas: Realiza la siguiente operación: 
+10 - 6 - 4 * 63 + 7 ==> (-241)
+08/05/2025 19:03:25: ***** > Le toca a Sergio
+08/05/2025 19:03:25: Pregunta de Matemáticas: Realiza la siguiente operación: 
+66 + 9 * 95 * 5 + 4 ==> (4345)
+08/05/2025 19:03:30: ***** > Le toca a CPU4
+08/05/2025 19:03:30: Pregunta de Geografía: Selecciona la ciudad más cercana a Helsinki ==> (C)
+A. Las Palmas
+B. Sevilla
+C. Amsterdam
+D. Malaga
+08/05/2025 19:03:30: ***** > Le toca a CPU3
+08/05/2025 19:03:30: Pregunta de Mastermind
+08/05/2025 19:03:30: ***** > Le toca a Carlos
+08/05/2025 19:03:39: ***** > Le toca a Sergio
+08/05/2025 19:04:12: Fin de partida con 4 jugadores. Ganador ha sido Sergio
+08/05/2025 19:06:33: Abro menú de jugadores
+08/05/2025 19:18:35: Arranco la aplicación
+08/05/2025 19:18:35: Estamos en modo depuración: true
+08/05/2025 19:18:35: Tamaño de ranking: 10
+08/05/2025 19:18:35: minNumEnterosPregMates: 4
+08/05/2025 19:18:35: maxNumEnterosPregMates: 8
+08/05/2025 19:18:35: minCifraPregMates: 2
+08/05/2025 19:18:35: maxCifraPregMates: 12
+08/05/2025 19:18:35: totalCifrasPregMasterMind: 3
+08/05/2025 19:18:35: maxCifraPregMastermind: 9
+08/05/2025 19:18:35: Jugador humano creado: Sergio    	16
+08/05/2025 19:18:35: Jugador humano creado: Carlos    	11
+08/05/2025 19:18:35: Jugador CPU creado: CPU3      	0
+08/05/2025 19:18:35: Jugador CPU creado: CPU4      	3
+08/05/2025 19:18:40: Comienzo partida
+08/05/2025 19:18:40: Comienza la partida con 4 jugadores: 2 jugadores humanos, 2 jugadores de CPU
+08/05/2025 19:18:42: Jugamos a 2 rondas
+08/05/2025 19:18:42: Inicio partida con 2 jugadores humanos, 2 jugadores de CPU
+08/05/2025 19:18:42: ***** > Le toca a CPU3
+08/05/2025 19:18:42: Pregunta de Mastermind
+08/05/2025 19:18:42: ***** > Le toca a CPU4
+08/05/2025 19:18:42: Pregunta de Geografía: Selecciona la ciudad más cercana a Roma ==> (C)
+A. Londres
+B. Sevilla
+C. Berlin
+D. Reykjavik
+08/05/2025 19:18:42: ***** > Le toca a Carlos
+08/05/2025 19:18:56: ***** > Le toca a Sergio
+08/05/2025 19:18:56: Pregunta de Matemáticas: Realiza la siguiente operación: 
+3 - 7 + 8 * 10 - 4 + 10 * 2 ==> (92)
+08/05/2025 19:19:01: ***** > Le toca a CPU3
+08/05/2025 19:19:04: ***** > Le toca a CPU4
+08/05/2025 19:19:07: ***** > Le toca a Carlos
+08/05/2025 19:19:07: Pregunta de Mastermind
+08/05/2025 19:19:25: ***** > Le toca a Sergio
+08/05/2025 19:19:30: Fin de partida con 4 jugadores. Ganador ha sido Sergio
+08/05/2025 19:20:22: Grabo lista de Jugadores
+08/05/2025 19:20:22: Paro la aplicación
+08/05/2025 19:38:33: Arranco la aplicación
+08/05/2025 19:38:34: Estamos en modo depuración: true
+08/05/2025 19:38:34: Tamaño de ranking: 10
+08/05/2025 19:38:34: minNumEnterosPregMates: 4
+08/05/2025 19:38:34: maxNumEnterosPregMates: 8
+08/05/2025 19:38:34: minCifraPregMates: 2
+08/05/2025 19:38:34: maxCifraPregMates: 12
+08/05/2025 19:38:34: totalCifrasPregMasterMind: 3
+08/05/2025 19:38:34: maxCifraPregMastermind: 9
+08/05/2025 19:38:34: Jugador CPU creado: CPU3      	0
+08/05/2025 19:38:34: Jugador CPU creado: CPU4      	3
+08/05/2025 19:38:34: Jugador humano creado: Carlos    	11
+08/05/2025 19:38:34: Jugador humano creado: Sergio    	17
+08/05/2025 20:06:00: Arranco la aplicación
+08/05/2025 20:06:00: Estamos en modo depuración: true
+08/05/2025 20:06:00: Tamaño de ranking: 10
+08/05/2025 20:06:00: minNumEnterosPregMates: 4
+08/05/2025 20:06:00: maxNumEnterosPregMates: 8
+08/05/2025 20:06:00: minCifraPregMates: 2
+08/05/2025 20:06:00: maxCifraPregMates: 12
+08/05/2025 20:06:00: totalCifrasPregMasterMind: 3
+08/05/2025 20:06:00: maxCifraPregMastermind: 9
+08/05/2025 20:06:00: Jugador CPU creado: CPU3      	0
+08/05/2025 20:06:00: Jugador CPU creado: CPU4      	3
+08/05/2025 20:06:00: Jugador humano creado: Carlos    	11
+08/05/2025 20:06:00: Jugador humano creado: Sergio    	17
+08/05/2025 20:06:09: Abro menú de jugadores
+08/05/2025 20:06:11: Muestro lista de jugadores
+08/05/2025 20:06:14: Salgo del menú jugadores
+08/05/2025 20:06:15: Grabo lista de Jugadores
+08/05/2025 20:06:15: Paro la aplicación
+08/05/2025 20:13:12: Arranco la aplicación
+08/05/2025 20:13:12: Estamos en modo depuración: true
+08/05/2025 20:13:12: Tamaño de ranking: 10
+08/05/2025 20:13:12: minNumEnterosPregMates: 4
+08/05/2025 20:13:12: maxNumEnterosPregMates: 8
+08/05/2025 20:13:12: minCifraPregMates: 2
+08/05/2025 20:13:12: maxCifraPregMates: 12
+08/05/2025 20:13:12: totalCifrasPregMasterMind: 3
+08/05/2025 20:13:12: maxCifraPregMastermind: 9
+08/05/2025 20:13:12: Jugador humano creado: Sergio    	17
+08/05/2025 20:13:12: Jugador humano creado: Carlos    	11
+08/05/2025 20:13:12: Jugador CPU creado: CPU3      	0
+08/05/2025 20:13:12: Jugador CPU creado: CPU4      	3
+08/05/2025 20:13:21: Grabo lista de Jugadores
+08/05/2025 20:13:21: Paro la aplicación

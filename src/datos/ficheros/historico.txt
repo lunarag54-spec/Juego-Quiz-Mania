@@ -1,0 +1,416 @@
+Registro de la partida Fri May 02 13:46:47 CEST 2025:
+Jugador1	0
+CPU2	0
+
+Registro de la partida Fri May 02 13:50:08 CEST 2025: 
+Jugador1	0
+CPU2	0
+
+Registro de la partida Fri May 02 13:51:20 CEST 2025: 
+Jugador1	0
+CPU2	0
+
+Registro de la partida Fri May 02 14:08:34 CEST 2025: 
+Jugador1  	1500
+CPU2      	750
+
+Registro de la partida Fri May 02 14:20:21 CEST 2025: 
+Jugador1  	1500
+CPU2      	750
+
+Registro de la partida Fri May 02 14:22:24 CEST 2025: 
+CPU1      	750
+assdsdfa  	1500
+
+Registro de la partida Fri May 02 14:22:26 CEST 2025: 
+CPU1      	750
+assdsdfa  	1500
+
+Registro de la partida Fri May 02 14:23:02 CEST 2025: 
+CPU1      	750
+assdsdfa  	1500
+
+Registro de la partida Fri May 02 14:23:58 CEST 2025: 
+CPU1      	750
+carlos    	1500
+Jugador3  	1500
+CPU4      	750
+
+Registro de la partida Fri May 02 14:24:59 CEST 2025: 
+XBUB      	1500
+CPU2      	750
+
+Registro de la partida Fri May 02 14:25:46 CEST 2025: 
+Jugador1  	1500
+Jugador2  	1500
+
+Registro de la partida Fri May 02 14:26:37 CEST 2025: 
+CPU1      	750
+Jugador2  	1500
+
+Registro de la partida Fri May 02 14:27:59 CEST 2025: 
+laura     	1500
+CPU2      	750
+
+Registro de la partida Fri May 02 16:48:15 CEST 2025: 
+CPU1      	0
+Jugador2  	0
+
+Registro de la partida Fri May 02 16:50:43 CEST 2025: 
+CPU1      	0
+Jugador2  	0
+
+Registro de la partida Fri May 02 16:51:22 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Fri May 02 16:55:14 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sat May 03 14:45:26 CEST 2025: 
+Jugador1  	0
+CPU2      	2
+
+Registro de la partida Sat May 03 14:51:48 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sat May 03 14:52:31 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sat May 03 14:52:41 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sat May 03 14:52:47 CEST 2025: 
+CPU1      	0
+Jugador2  	0
+
+Registro de la partida Sat May 03 14:52:51 CEST 2025: 
+CPU1      	1
+Jugador2  	0
+
+Registro de la partida Sat May 03 14:57:51 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sat May 03 14:59:31 CEST 2025: 
+CPU1      	0
+Jugador2  	1
+
+Registro de la partida Sat May 03 14:59:46 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sat May 03 14:59:53 CEST 2025: 
+CPU1      	0
+Jugador2  	0
+
+Registro de la partida Sat May 03 15:00:08 CEST 2025: 
+CPU1      	1
+Jugador2  	1
+
+Registro de la partida Sat May 03 15:21:35 CEST 2025: 
+Jugador1  	1
+CPU2      	0
+
+Registro de la partida Sat May 03 15:21:52 CEST 2025: 
+Jugador1  	1
+CPU2      	0
+
+Registro de la partida Sat May 03 15:22:15 CEST 2025: 
+CPU1      	1
+Jugador2  	0
+
+Registro de la partida Sat May 03 15:22:53 CEST 2025: 
+CPU1      	2
+Jugador2  	1
+
+Registro de la partida Sat May 03 15:22:59 CEST 2025: 
+CPU1      	0
+Jugador2  	0
+
+Registro de la partida Sat May 03 15:24:54 CEST 2025: 
+CPU1      	1
+Jugador2  	0
+
+Registro de la partida Sat May 03 15:25:34 CEST 2025: 
+CPU1      	0
+Jugador2  	0
+
+Registro de la partida Sat May 03 15:25:49 CEST 2025: 
+Jugador1  	1
+CPU2      	0
+
+Registro de la partida Sat May 03 15:26:02 CEST 2025: 
+CPU1      	0
+Jugador2  	0
+
+Registro de la partida Sat May 03 15:26:05 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sat May 03 15:26:09 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sat May 03 15:26:17 CEST 2025: 
+CPU1      	1
+Jugador2  	0
+
+Registro de la partida Sat May 03 18:49:30 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sun May 04 14:42:49 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sun May 04 14:44:46 CEST 2025: 
+CPU1      	1
+Jugador2  	1
+
+Registro de la partida Sun May 04 15:58:32 CEST 2025: 
+CPU1      	1
+Jugador2  	2
+
+Registro de la partida Sun May 04 15:59:30 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sun May 04 16:24:15 CEST 2025: 
+CPU1      	1
+Jugador2  	1
+
+Registro de la partida Sun May 04 16:25:43 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sun May 04 16:27:13 CEST 2025: 
+CPU1      	0
+Jugador2  	2
+
+Registro de la partida Sun May 04 17:32:57 CEST 2025: 
+CPU1      	0
+Jugador2  	0
+
+Registro de la partida Sun May 04 17:37:15 CEST 2025: 
+Jugador1  	1
+CPU2      	2
+
+Registro de la partida Sun May 04 17:37:39 CEST 2025: 
+Jugador1  	0
+CPU2      	1
+
+Registro de la partida Sun May 04 17:40:24 CEST 2025: 
+CPU1      	1
+Jugador2  	0
+
+Registro de la partida Sun May 04 17:42:00 CEST 2025: 
+CPU1      	1
+Jugador2  	1
+
+Registro de la partida Sun May 04 17:42:31 CEST 2025: 
+Jugador1  	0
+CPU2      	0
+
+Registro de la partida Sun May 04 17:43:21 CEST 2025: 
+CPU1      	0
+Jugador2  	1
+
+Registro de la partida Sun May 04 17:43:56 CEST 2025: 
+Jugador1  	1
+CPU2      	0
+
+Registro de la partida Sun May 04 21:23:24 CEST 2025: 
+Jugador1  	2
+CPU2      	0
+
+Registro de la partida Sun May 04 21:26:11 CEST 2025: 
+Jugador1  	4
+CPU2      	1
+
+Registro de la partida Sun May 04 21:28:36 CEST 2025: 
+Jugador1  	4
+CPU2      	1
+
+Registro de la partida Sun May 04 21:31:01 CEST 2025: 
+CPU1      	0
+Jugador2  	2
+
+Registro de la partida Sun May 04 21:32:20 CEST 2025: 
+CPU1      	0
+Jugador2  	3
+
+Registro de la partida Sun May 04 21:33:00 CEST 2025: 
+CPU1      	0
+Jugador2  	4
+
+Registro de la partida Sun May 04 21:33:37 CEST 2025: 
+CPU1      	1
+Jugador2  	5
+
+Registro de la partida Sun May 04 21:33:51 CEST 2025: 
+CPU1      	1
+Jugador2  	6
+
+Registro de la partida Sun May 04 22:01:07 CEST 2025: 
+Jugador1  	1
+CPU2      	0
+
+Registro de la partida Sun May 04 22:01:22 CEST 2025: 
+Jugador1  	1
+CPU2      	1
+
+Registro de la partida Sun May 04 22:02:10 CEST 2025: 
+Jugador1  	3
+CPU2      	1
+
+Registro de la partida Sun May 04 22:33:30 CEST 2025: 
+Jugador1  	0
+CPU2      	1
+
+Registro de la partida Sun May 04 22:34:06 CEST 2025: 
+Jugador1  	1
+CPU2      	1
+
+Registro de la partida Sun May 04 22:34:21 CEST 2025: 
+CPU1      	0
+Jugador2  	1
+
+Registro de la partida Sun May 04 22:35:08 CEST 2025: 
+Jugador1  	1
+CPU2      	2
+
+Registro de la partida Tue May 06 23:26:18 CEST 2025: 
+CPU1      	0
+Jugador2  	2
+
+Registro de la partida Tue May 06 23:33:54 CEST 2025: 
+CPU1      	1
+Jugador2  	0
+
+Registro de la partida Tue May 06 23:43:17 CEST 2025: 
+CPU1      	1
+Jugador2  	2
+
+Registro de la partida Wed May 07 19:23:10 CEST 2025: 
+Carlos    	4
+Sergio    	5
+CPU1      	2
+Jugador3  	4
+
+Registro de la partida Wed May 07 19:50:28 CEST 2025: 
+Carlos    	4
+Sergio    	6
+CPU1      	1
+Jugador3  	4
+
+Registro de la partida Wed May 07 19:59:44 CEST 2025: 
+Sergio    	8
+Jugador3  	6
+CPU1      	3
+Carlos    	6
+
+Registro de la partida Wed May 07 20:07:18 CEST 2025: 
+Carlos    	7
+CPU1      	4
+Sergio    	9
+Jugador3  	8
+
+Registro de la partida Wed May 07 20:08:49 CEST 2025: 
+CPU1      	5
+Jugador3  	9
+Sergio    	11
+Carlos    	7
+
+Registro de la partida Wed May 07 20:13:56 CEST 2025: 
+Carlos    	9
+Sergio    	12
+Jugador3  	10
+CPU1      	6
+
+Registro de la partida Wed May 07 20:42:01 CEST 2025: 
+Jugador1  	1
+CPU2      	1
+
+Registro de la partida Wed May 07 21:37:26 CEST 2025: 
+Sergio    	12
+CPU4      	0
+Carlos    	8
+CPU4      	0
+
+Registro de la partida Wed May 07 21:54:42 CEST 2025: 
+CPU4      	0
+CPU4      	0
+Carlos    	8
+Sergio    	12
+
+Registro de la partida Wed May 07 21:55:55 CEST 2025: 
+Carlos    	8
+CPU4      	1
+CPU4      	0
+Sergio    	11
+
+Registro de la partida Wed May 07 22:01:50 CEST 2025: 
+CPU4      	1
+CPU4      	0
+Sergio    	12
+Carlos    	8
+
+Registro de la partida Wed May 07 22:15:11 CEST 2025: 
+Carlos    	7
+CPU4      	0
+Sergio    	12
+CPU4      	0
+
+Registro de la partida Wed May 07 22:20:48 CEST 2025: 
+CPU4      	1
+Carlos    	7
+CPU4      	0
+Sergio    	12
+
+Registro de la partida Wed May 07 22:29:53 CEST 2025: 
+Sergio    	12
+CPU4      	0
+CPU4      	0
+Carlos    	8
+
+Registro de la partida Wed May 07 22:31:30 CEST 2025: 
+Carlos    	8
+CPU4      	0
+CPU4      	0
+Sergio    	12
+
+Registro de la partida Thu May 08 18:28:06 CEST 2025: 
+Carlos    	9
+Sergio    	13
+CPU3      	0
+CPU4      	0
+
+Registro de la partida Thu May 08 18:53:11 CEST 2025: 
+Carlos    	11
+CPU4      	1
+CPU3      	0
+Sergio    	14
+
+Registro de la partida Thu May 08 19:02:02 CEST 2025: 
+Sergio    	16
+Carlos    	11
+CPU3      	0
+CPU4      	3
+
+Registro de la partida Thu May 08 19:04:12 CEST 2025: 
+CPU4      	4
+CPU3      	0
+Carlos    	12
+Sergio    	17
+
+Registro de la partida Thu May 08 19:19:30 CEST 2025: 
+CPU3      	0
+CPU4      	3
+Carlos    	11
+Sergio    	17
+

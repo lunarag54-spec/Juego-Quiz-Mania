@@ -1,0 +1,4 @@
+Sergio    	17
+CPU3      	0
+CPU4      	3
+Carlos    	11

@@ -1,0 +1,8 @@
+Sergio    	17
+Carlos    	11
+CPU4      	3
+Jugador2  	2
+CPU2      	1
+Jugador1  	1
+ABC       	0
+CPU3      	0

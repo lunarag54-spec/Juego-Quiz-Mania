@@ -1,0 +1,944 @@
+04/05/2025 14:40:59: Arranco la aplicación
+04/05/2025 14:40:59: Estamos en modo depuración: true
+04/05/2025 14:40:59: Tamaño de ranking: 10
+04/05/2025 14:40:59: minNumEnterosPregMates: 4
+04/05/2025 14:40:59: maxNumEnterosPregMates: 8
+04/05/2025 14:40:59: minCifraPregMates: 2
+04/05/2025 14:40:59: maxCifraPregMates: 12
+04/05/2025 14:40:59: totalCifrasPregMasterMind: 3
+04/05/2025 14:40:59: maxCifraPregMastermind: 9
+04/05/2025 14:41:03: Abro menú de jugadores
+04/05/2025 14:41:05: Menu crear jugadores
+04/05/2025 14:41:08: Jugador humano creado: Jugador2  	0
+04/05/2025 14:41:10: Jugador CPU creado: CPU1      	0
+04/05/2025 14:41:12: Muestro lista de jugadores
+04/05/2025 14:41:15: Menu borrar jugador
+04/05/2025 14:41:21: Jugador CPU1 eliminado
+04/05/2025 14:41:23: Muestro lista de jugadores
+04/05/2025 14:41:26: Menu crear jugadores
+04/05/2025 14:41:30: Jugador humano creado: Jugador1  	0
+04/05/2025 14:41:32: Jugador CPU creado: CPU2      	0
+04/05/2025 14:41:33: Muestro lista de jugadores
+04/05/2025 14:41:38: Salgo del menú jugadores
+04/05/2025 14:41:48: Abro menú de jugadores
+04/05/2025 14:41:49: Menu borrar jugador
+04/05/2025 14:41:50: Jugador dvdcz NO eliminado (por no ser encontrado)
+04/05/2025 14:42:11: Salgo del menú jugadores
+04/05/2025 14:42:14: Muestra Ranking
+04/05/2025 14:42:28: Muestra historico
+04/05/2025 14:42:44: Comienzo partida
+04/05/2025 14:42:44: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 14:42:49: Jugamos a 1 rondas
+04/05/2025 14:42:49: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 14:42:49: Le toca a Jugador1
+04/05/2025 14:42:49: Pregunta de Geografía
+04/05/2025 14:42:49: Le toca a CPU2
+04/05/2025 14:42:49: Pregunta de Cronómetro
+04/05/2025 14:42:49: Fin de partida con 2 jugadores. Ha habido empate: Jugador1 - CPU2. Consulte el histórico para más información
+04/05/2025 14:42:58: Comienzo partida
+04/05/2025 14:42:58: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 14:42:59: Jugamos a 1 rondas
+04/05/2025 14:42:59: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 14:42:59: Le toca a Jugador1
+04/05/2025 14:43:42: Estamos en modo depuración: true
+04/05/2025 14:43:42: Tamaño de ranking: 10
+04/05/2025 14:43:42: minNumEnterosPregMates: 4
+04/05/2025 14:43:42: maxNumEnterosPregMates: 8
+04/05/2025 14:43:42: minCifraPregMates: 2
+04/05/2025 14:43:42: maxCifraPregMates: 12
+04/05/2025 14:43:42: totalCifrasPregMasterMind: 3
+04/05/2025 14:43:42: maxCifraPregMastermind: 9
+04/05/2025 14:43:49: Estamos en modo depuración: true
+04/05/2025 14:43:49: Tamaño de ranking: 10
+04/05/2025 14:43:49: minNumEnterosPregMates: 4
+04/05/2025 14:43:49: maxNumEnterosPregMates: 8
+04/05/2025 14:43:49: minCifraPregMates: 2
+04/05/2025 14:43:49: maxCifraPregMates: 12
+04/05/2025 14:43:49: totalCifrasPregMasterMind: 3
+04/05/2025 14:43:49: maxCifraPregMastermind: 9
+04/05/2025 14:43:49: Jugador humano creado: Jugador2  	0
+04/05/2025 14:43:49: Jugador CPU creado: CPU1      	0
+04/05/2025 14:43:49: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 14:43:49: Le toca a CPU1
+04/05/2025 14:43:49: Pregunta de Mastermind
+04/05/2025 14:43:49: RESPUESTA NO CORRECTA!!
+04/05/2025 14:43:49: Le toca a Jugador2
+04/05/2025 14:43:49: Pregunta de Geografía
+04/05/2025 14:43:49: Le toca a CPU1
+04/05/2025 14:43:49: Pregunta de Matemáticas: 4 + 4 - 2 + 10 - 11 + 8 + 4 * 9 ==> 49
+04/05/2025 14:43:49: RESPUESTA CORRECTA!!
+04/05/2025 14:43:49: Le toca a Jugador2
+04/05/2025 14:43:49: Pregunta de Matemáticas: 511 * 10 * 11 * 1210 ==> 68014100
+04/05/2025 14:44:46: RESPUESTA CORRECTA!!
+04/05/2025 14:44:46: Fin de partida con 2 jugadores. Ha habido empate: CPU1 - Jugador2. Consulte el histórico para más información
+04/05/2025 14:45:17: Arranco la aplicación
+04/05/2025 14:45:17: Estamos en modo depuración: true
+04/05/2025 14:45:17: Tamaño de ranking: 10
+04/05/2025 14:45:17: minNumEnterosPregMates: 4
+04/05/2025 14:45:17: maxNumEnterosPregMates: 8
+04/05/2025 14:45:17: minCifraPregMates: 2
+04/05/2025 14:45:17: maxCifraPregMates: 12
+04/05/2025 14:45:17: totalCifrasPregMasterMind: 3
+04/05/2025 14:45:17: maxCifraPregMastermind: 9
+04/05/2025 14:45:22: Comienzo partida
+04/05/2025 14:45:52: Paro la aplicación
+04/05/2025 15:56:26: Estamos en modo depuración: true
+04/05/2025 15:56:26: Tamaño de ranking: 10
+04/05/2025 15:56:26: minNumEnterosPregMates: 4
+04/05/2025 15:56:26: maxNumEnterosPregMates: 8
+04/05/2025 15:56:26: minCifraPregMates: 2
+04/05/2025 15:56:26: maxCifraPregMates: 12
+04/05/2025 15:56:26: totalCifrasPregMasterMind: 3
+04/05/2025 15:56:26: maxCifraPregMastermind: 9
+04/05/2025 15:58:03: Estamos en modo depuración: true
+04/05/2025 15:58:03: Tamaño de ranking: 10
+04/05/2025 15:58:03: minNumEnterosPregMates: 4
+04/05/2025 15:58:03: maxNumEnterosPregMates: 8
+04/05/2025 15:58:03: minCifraPregMates: 2
+04/05/2025 15:58:03: maxCifraPregMates: 12
+04/05/2025 15:58:03: totalCifrasPregMasterMind: 3
+04/05/2025 15:58:03: maxCifraPregMastermind: 9
+04/05/2025 15:58:03: Jugador humano creado: Jugador2  	0
+04/05/2025 15:58:03: Jugador CPU creado: CPU1      	0
+04/05/2025 15:58:03: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 15:58:03: Le toca a CPU1
+04/05/2025 15:58:03: Pregunta de Matemáticas: 8 * 10 + 109 * 11910 ==> 1298270
+04/05/2025 15:58:03: RESPUESTA CORRECTA!!
+04/05/2025 15:58:03: Le toca a Jugador2
+04/05/2025 15:58:03: Pregunta de Matemáticas: 3 - 6 * 5104 ==> -30621
+04/05/2025 15:58:20: RESPUESTA CORRECTA!!
+04/05/2025 15:58:20: Le toca a CPU1
+04/05/2025 15:58:20: Pregunta de Geografía
+04/05/2025 15:58:20: Le toca a Jugador2
+04/05/2025 15:58:20: Pregunta de Matemáticas: 12 + 8 + 210 + 9 - 6 - 109 ==> 124
+04/05/2025 15:58:32: RESPUESTA CORRECTA!!
+04/05/2025 15:58:32: Fin de partida con 2 jugadores. Ganador ha sido Jugador2
+04/05/2025 15:58:39: Estamos en modo depuración: true
+04/05/2025 15:58:39: Tamaño de ranking: 10
+04/05/2025 15:58:39: minNumEnterosPregMates: 4
+04/05/2025 15:58:39: maxNumEnterosPregMates: 8
+04/05/2025 15:58:39: minCifraPregMates: 2
+04/05/2025 15:58:39: maxCifraPregMates: 12
+04/05/2025 15:58:39: totalCifrasPregMasterMind: 3
+04/05/2025 15:58:39: maxCifraPregMastermind: 9
+04/05/2025 15:58:39: Jugador humano creado: Jugador1  	0
+04/05/2025 15:58:39: Jugador CPU creado: CPU2      	0
+04/05/2025 15:58:39: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 15:58:39: Le toca a Jugador1
+04/05/2025 15:58:39: Pregunta de Cronómetro
+04/05/2025 15:58:39: Le toca a CPU2
+04/05/2025 15:58:39: Pregunta de Mastermind
+04/05/2025 15:58:39: RESPUESTA NO CORRECTA!!
+04/05/2025 15:58:39: Le toca a Jugador1
+04/05/2025 15:58:39: Pregunta de Matemáticas: 102 - 4 * 12 * 11 + 8 ==> -418
+04/05/2025 15:59:30: RESPUESTA NO CORRECTA!!
+04/05/2025 15:59:30: Le toca a CPU2
+04/05/2025 15:59:30: Pregunta de Geografía
+04/05/2025 15:59:30: Fin de partida con 2 jugadores. Ha habido empate: Jugador1 - CPU2. Consulte el histórico para más información
+04/05/2025 16:09:09: Estamos en modo depuración: true
+04/05/2025 16:09:09: Tamaño de ranking: 10
+04/05/2025 16:09:09: minNumEnterosPregMates: 4
+04/05/2025 16:09:09: maxNumEnterosPregMates: 8
+04/05/2025 16:09:09: minCifraPregMates: 2
+04/05/2025 16:09:09: maxCifraPregMates: 12
+04/05/2025 16:09:09: totalCifrasPregMasterMind: 3
+04/05/2025 16:09:09: maxCifraPregMastermind: 9
+04/05/2025 16:09:13: Pregunta de Mastermind
+04/05/2025 16:10:44: Estamos en modo depuración: true
+04/05/2025 16:10:44: Tamaño de ranking: 10
+04/05/2025 16:10:44: minNumEnterosPregMates: 4
+04/05/2025 16:10:44: maxNumEnterosPregMates: 8
+04/05/2025 16:10:44: minCifraPregMates: 2
+04/05/2025 16:10:44: maxCifraPregMates: 12
+04/05/2025 16:10:44: totalCifrasPregMasterMind: 3
+04/05/2025 16:10:44: maxCifraPregMastermind: 9
+04/05/2025 16:10:48: Pregunta de Mastermind
+04/05/2025 16:23:48: Estamos en modo depuración: true
+04/05/2025 16:23:48: Tamaño de ranking: 10
+04/05/2025 16:23:48: minNumEnterosPregMates: 4
+04/05/2025 16:23:48: maxNumEnterosPregMates: 8
+04/05/2025 16:23:48: minCifraPregMates: 2
+04/05/2025 16:23:48: maxCifraPregMates: 12
+04/05/2025 16:23:48: totalCifrasPregMasterMind: 3
+04/05/2025 16:23:48: maxCifraPregMastermind: 9
+04/05/2025 16:23:52: Estamos en modo depuración: true
+04/05/2025 16:23:52: Tamaño de ranking: 10
+04/05/2025 16:23:52: minNumEnterosPregMates: 4
+04/05/2025 16:23:52: maxNumEnterosPregMates: 8
+04/05/2025 16:23:52: minCifraPregMates: 2
+04/05/2025 16:23:52: maxCifraPregMates: 12
+04/05/2025 16:23:52: totalCifrasPregMasterMind: 3
+04/05/2025 16:23:52: maxCifraPregMastermind: 9
+04/05/2025 16:23:52: Jugador humano creado: Jugador2  	0
+04/05/2025 16:23:52: Jugador CPU creado: CPU1      	0
+04/05/2025 16:23:52: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 16:23:52: Le toca a CPU1
+04/05/2025 16:23:52: Pregunta de Matemáticas: 962 + 3 * 12 ==> 998
+04/05/2025 16:23:52: RESPUESTA CORRECTA!!
+04/05/2025 16:23:52: Le toca a Jugador2
+04/05/2025 16:23:52: Pregunta de Cronómetro
+04/05/2025 16:23:52: Le toca a CPU1
+04/05/2025 16:23:52: Pregunta de Cronómetro
+04/05/2025 16:23:52: Le toca a Jugador2
+04/05/2025 16:23:52: Pregunta de Matemáticas: 11 + 4 + 11 - 3 + 11 - 2 + 9 * 9 ==> 113
+04/05/2025 16:24:15: RESPUESTA CORRECTA!!
+04/05/2025 16:24:15: Fin de partida con 2 jugadores. Ha habido empate: CPU1 - Jugador2. Consulte el histórico para más información
+04/05/2025 16:24:22: Pregunta de Mastermind
+04/05/2025 16:25:40: Estamos en modo depuración: true
+04/05/2025 16:25:40: Tamaño de ranking: 10
+04/05/2025 16:25:40: minNumEnterosPregMates: 4
+04/05/2025 16:25:40: maxNumEnterosPregMates: 8
+04/05/2025 16:25:40: minCifraPregMates: 2
+04/05/2025 16:25:40: maxCifraPregMates: 12
+04/05/2025 16:25:40: totalCifrasPregMasterMind: 3
+04/05/2025 16:25:40: maxCifraPregMastermind: 9
+04/05/2025 16:25:43: Estamos en modo depuración: true
+04/05/2025 16:25:43: Tamaño de ranking: 10
+04/05/2025 16:25:43: minNumEnterosPregMates: 4
+04/05/2025 16:25:43: maxNumEnterosPregMates: 8
+04/05/2025 16:25:43: minCifraPregMates: 2
+04/05/2025 16:25:43: maxCifraPregMates: 12
+04/05/2025 16:25:43: totalCifrasPregMasterMind: 3
+04/05/2025 16:25:43: maxCifraPregMastermind: 9
+04/05/2025 16:25:43: Jugador humano creado: Jugador1  	0
+04/05/2025 16:25:43: Jugador CPU creado: CPU2      	0
+04/05/2025 16:25:43: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 16:25:43: Le toca a Jugador1
+04/05/2025 16:25:43: Pregunta de Geografía
+04/05/2025 16:25:43: Le toca a CPU2
+04/05/2025 16:25:43: Pregunta de Cronómetro
+04/05/2025 16:25:43: Le toca a Jugador1
+04/05/2025 16:25:43: Pregunta de Cronómetro
+04/05/2025 16:25:43: Le toca a CPU2
+04/05/2025 16:25:43: Pregunta de Cronómetro
+04/05/2025 16:25:43: Fin de partida con 2 jugadores. Ha habido empate: Jugador1 - CPU2. Consulte el histórico para más información
+04/05/2025 16:25:49: Estamos en modo depuración: true
+04/05/2025 16:25:49: Tamaño de ranking: 10
+04/05/2025 16:25:49: minNumEnterosPregMates: 4
+04/05/2025 16:25:49: maxNumEnterosPregMates: 8
+04/05/2025 16:25:49: minCifraPregMates: 2
+04/05/2025 16:25:49: maxCifraPregMates: 12
+04/05/2025 16:25:49: totalCifrasPregMasterMind: 3
+04/05/2025 16:25:49: maxCifraPregMastermind: 9
+04/05/2025 16:25:49: Jugador humano creado: Jugador2  	0
+04/05/2025 16:25:49: Jugador CPU creado: CPU1      	0
+04/05/2025 16:25:49: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 16:25:49: Le toca a CPU1
+04/05/2025 16:25:49: Pregunta de Geografía
+04/05/2025 16:25:49: Le toca a Jugador2
+04/05/2025 16:25:49: Pregunta de Mastermind
+04/05/2025 16:26:23: RESPUESTA CORRECTA!!
+04/05/2025 16:26:23: Le toca a CPU1
+04/05/2025 16:26:23: RESPUESTA NO CORRECTA!!
+04/05/2025 16:26:23: Le toca a Jugador2
+04/05/2025 16:26:23: Pregunta de Mastermind
+04/05/2025 16:27:13: RESPUESTA CORRECTA!!
+04/05/2025 16:27:13: Fin de partida con 2 jugadores. Ganador ha sido Jugador2
+04/05/2025 16:28:13: Estamos en modo depuración: true
+04/05/2025 16:28:13: Tamaño de ranking: 10
+04/05/2025 16:28:13: minNumEnterosPregMates: 4
+04/05/2025 16:28:13: maxNumEnterosPregMates: 8
+04/05/2025 16:28:13: minCifraPregMates: 2
+04/05/2025 16:28:13: maxCifraPregMates: 12
+04/05/2025 16:28:13: totalCifrasPregMasterMind: 3
+04/05/2025 16:28:13: maxCifraPregMastermind: 9
+04/05/2025 16:28:22: Pregunta de Mastermind
+04/05/2025 16:30:28: Estamos en modo depuración: true
+04/05/2025 16:30:28: Tamaño de ranking: 10
+04/05/2025 16:30:28: minNumEnterosPregMates: 4
+04/05/2025 16:30:28: maxNumEnterosPregMates: 8
+04/05/2025 16:30:28: minCifraPregMates: 2
+04/05/2025 16:30:28: maxCifraPregMates: 12
+04/05/2025 16:30:28: totalCifrasPregMasterMind: 3
+04/05/2025 16:30:28: maxCifraPregMastermind: 9
+04/05/2025 16:30:30: Pregunta de Mastermind
+04/05/2025 16:31:25: Estamos en modo depuración: true
+04/05/2025 16:31:25: Tamaño de ranking: 10
+04/05/2025 16:31:25: minNumEnterosPregMates: 4
+04/05/2025 16:31:25: maxNumEnterosPregMates: 8
+04/05/2025 16:31:25: minCifraPregMates: 2
+04/05/2025 16:31:25: maxCifraPregMates: 12
+04/05/2025 16:31:25: totalCifrasPregMasterMind: 3
+04/05/2025 16:31:25: maxCifraPregMastermind: 9
+04/05/2025 16:31:28: Pregunta de Mastermind
+04/05/2025 16:32:28: Estamos en modo depuración: true
+04/05/2025 16:32:28: Tamaño de ranking: 10
+04/05/2025 16:32:28: minNumEnterosPregMates: 4
+04/05/2025 16:32:28: maxNumEnterosPregMates: 8
+04/05/2025 16:32:28: minCifraPregMates: 2
+04/05/2025 16:32:28: maxCifraPregMates: 12
+04/05/2025 16:32:28: totalCifrasPregMasterMind: 3
+04/05/2025 16:32:28: maxCifraPregMastermind: 9
+04/05/2025 16:32:30: Pregunta de Mastermind
+04/05/2025 17:27:08: Estamos en modo depuración: true
+04/05/2025 17:27:08: Tamaño de ranking: 10
+04/05/2025 17:27:08: minNumEnterosPregMates: 4
+04/05/2025 17:27:08: maxNumEnterosPregMates: 8
+04/05/2025 17:27:08: minCifraPregMates: 2
+04/05/2025 17:27:08: maxCifraPregMates: 12
+04/05/2025 17:27:08: totalCifrasPregMasterMind: 3
+04/05/2025 17:27:08: maxCifraPregMastermind: 9
+04/05/2025 17:27:13: Pregunta de Mastermind
+04/05/2025 17:29:35: Pregunta de Mastermind
+04/05/2025 17:30:29: Pregunta de Mastermind
+04/05/2025 17:30:48: Estamos en modo depuración: true
+04/05/2025 17:30:48: Tamaño de ranking: 10
+04/05/2025 17:30:48: minNumEnterosPregMates: 4
+04/05/2025 17:30:48: maxNumEnterosPregMates: 8
+04/05/2025 17:30:48: minCifraPregMates: 2
+04/05/2025 17:30:48: maxCifraPregMates: 12
+04/05/2025 17:30:48: totalCifrasPregMasterMind: 3
+04/05/2025 17:30:48: maxCifraPregMastermind: 9
+04/05/2025 17:30:48: Jugador humano creado: Jugador2  	0
+04/05/2025 17:30:48: Jugador CPU creado: CPU1      	0
+04/05/2025 17:30:48: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 17:30:48: Le toca a CPU1
+04/05/2025 17:30:48: Pregunta de Cronómetro
+04/05/2025 17:30:48: Le toca a Jugador2
+04/05/2025 17:30:48: Pregunta de Mastermind
+04/05/2025 17:32:55: Estamos en modo depuración: true
+04/05/2025 17:32:55: Tamaño de ranking: 10
+04/05/2025 17:32:55: minNumEnterosPregMates: 4
+04/05/2025 17:32:55: maxNumEnterosPregMates: 8
+04/05/2025 17:32:55: minCifraPregMates: 2
+04/05/2025 17:32:55: maxCifraPregMates: 12
+04/05/2025 17:32:55: totalCifrasPregMasterMind: 3
+04/05/2025 17:32:55: maxCifraPregMastermind: 9
+04/05/2025 17:32:57: Estamos en modo depuración: true
+04/05/2025 17:32:57: Tamaño de ranking: 10
+04/05/2025 17:32:57: minNumEnterosPregMates: 4
+04/05/2025 17:32:57: maxNumEnterosPregMates: 8
+04/05/2025 17:32:57: minCifraPregMates: 2
+04/05/2025 17:32:57: maxCifraPregMates: 12
+04/05/2025 17:32:57: totalCifrasPregMasterMind: 3
+04/05/2025 17:32:57: maxCifraPregMastermind: 9
+04/05/2025 17:32:57: Jugador humano creado: Jugador2  	0
+04/05/2025 17:32:57: Jugador CPU creado: CPU1      	0
+04/05/2025 17:32:57: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 17:32:57: Le toca a CPU1
+04/05/2025 17:32:57: Pregunta de Geografía
+04/05/2025 17:32:57: Le toca a Jugador2
+04/05/2025 17:32:57: RESPUESTA NO CORRECTA!!
+04/05/2025 17:32:57: Le toca a CPU1
+04/05/2025 17:32:57: Pregunta de Cronómetro
+04/05/2025 17:32:57: Le toca a Jugador2
+04/05/2025 17:32:57: Pregunta de Geografía
+04/05/2025 17:32:57: Fin de partida con 2 jugadores. Ha habido empate: CPU1 - Jugador2. Consulte el histórico para más información
+04/05/2025 17:33:32: Estamos en modo depuración: true
+04/05/2025 17:33:32: Tamaño de ranking: 10
+04/05/2025 17:33:32: minNumEnterosPregMates: 4
+04/05/2025 17:33:32: maxNumEnterosPregMates: 8
+04/05/2025 17:33:32: minCifraPregMates: 2
+04/05/2025 17:33:32: maxCifraPregMates: 12
+04/05/2025 17:33:32: totalCifrasPregMasterMind: 3
+04/05/2025 17:33:32: maxCifraPregMastermind: 9
+04/05/2025 17:33:32: Jugador humano creado: Jugador1  	0
+04/05/2025 17:33:32: Jugador CPU creado: CPU2      	0
+04/05/2025 17:33:32: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 17:33:32: Le toca a Jugador1
+04/05/2025 17:33:32: RESPUESTA NO CORRECTA!!
+04/05/2025 17:33:32: Le toca a CPU2
+04/05/2025 17:33:32: Pregunta de Mastermind
+04/05/2025 17:36:22: RESPUESTA NO CORRECTA!!
+04/05/2025 17:36:22: Le toca a Jugador1
+04/05/2025 17:36:22: Pregunta de Cronómetro
+04/05/2025 17:36:22: Le toca a CPU2
+04/05/2025 17:36:22: Pregunta de Mastermind
+04/05/2025 17:36:49: Estamos en modo depuración: true
+04/05/2025 17:36:49: Tamaño de ranking: 10
+04/05/2025 17:36:49: minNumEnterosPregMates: 4
+04/05/2025 17:36:49: maxNumEnterosPregMates: 8
+04/05/2025 17:36:49: minCifraPregMates: 2
+04/05/2025 17:36:49: maxCifraPregMates: 12
+04/05/2025 17:36:49: totalCifrasPregMasterMind: 3
+04/05/2025 17:36:49: maxCifraPregMastermind: 9
+04/05/2025 17:36:52: Estamos en modo depuración: true
+04/05/2025 17:36:52: Tamaño de ranking: 10
+04/05/2025 17:36:52: minNumEnterosPregMates: 4
+04/05/2025 17:36:52: maxNumEnterosPregMates: 8
+04/05/2025 17:36:52: minCifraPregMates: 2
+04/05/2025 17:36:52: maxCifraPregMates: 12
+04/05/2025 17:36:52: totalCifrasPregMasterMind: 3
+04/05/2025 17:36:52: maxCifraPregMastermind: 9
+04/05/2025 17:36:52: Jugador humano creado: Jugador1  	0
+04/05/2025 17:36:52: Jugador CPU creado: CPU2      	0
+04/05/2025 17:36:52: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 17:36:52: Le toca a Jugador1
+04/05/2025 17:36:52: Pregunta de Mastermind
+04/05/2025 17:37:15: RESPUESTA CORRECTA!!
+04/05/2025 17:37:15: Le toca a CPU2
+04/05/2025 17:37:15: Pregunta de Matemáticas: 11 + 5 + 4 * 5 ==> 36
+04/05/2025 17:37:15: RESPUESTA CORRECTA!!
+04/05/2025 17:37:15: Le toca a Jugador1
+04/05/2025 17:37:15: Pregunta de Geografía
+04/05/2025 17:37:15: Le toca a CPU2
+04/05/2025 17:37:15: Pregunta de Matemáticas: 29 * 3 - 79 - 59 ==> -51
+04/05/2025 17:37:15: RESPUESTA CORRECTA!!
+04/05/2025 17:37:15: Fin de partida con 2 jugadores. Ganador ha sido CPU2
+04/05/2025 17:37:38: Estamos en modo depuración: true
+04/05/2025 17:37:38: Tamaño de ranking: 10
+04/05/2025 17:37:38: minNumEnterosPregMates: 4
+04/05/2025 17:37:38: maxNumEnterosPregMates: 8
+04/05/2025 17:37:38: minCifraPregMates: 2
+04/05/2025 17:37:38: maxCifraPregMates: 12
+04/05/2025 17:37:38: totalCifrasPregMasterMind: 3
+04/05/2025 17:37:38: maxCifraPregMastermind: 9
+04/05/2025 17:37:38: Jugador humano creado: Jugador1  	0
+04/05/2025 17:37:38: Jugador CPU creado: CPU2      	0
+04/05/2025 17:37:38: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 17:37:38: Le toca a Jugador1
+04/05/2025 17:37:38: Pregunta de Geografía
+04/05/2025 17:37:38: Le toca a CPU2
+04/05/2025 17:37:38: RESPUESTA NO CORRECTA!!
+04/05/2025 17:37:38: Le toca a Jugador1
+04/05/2025 17:37:38: RESPUESTA NO CORRECTA!!
+04/05/2025 17:37:38: Le toca a CPU2
+04/05/2025 17:37:38: Pregunta de Matemáticas: 12 - 6 * 3 + 2 ==> -4
+04/05/2025 17:37:38: RESPUESTA CORRECTA!!
+04/05/2025 17:37:39: Fin de partida con 2 jugadores. Ganador ha sido CPU2
+04/05/2025 17:39:33: Estamos en modo depuración: true
+04/05/2025 17:39:33: Tamaño de ranking: 10
+04/05/2025 17:39:33: minNumEnterosPregMates: 4
+04/05/2025 17:39:33: maxNumEnterosPregMates: 8
+04/05/2025 17:39:33: minCifraPregMates: 2
+04/05/2025 17:39:33: maxCifraPregMates: 12
+04/05/2025 17:39:33: totalCifrasPregMasterMind: 3
+04/05/2025 17:39:33: maxCifraPregMastermind: 9
+04/05/2025 17:39:33: Jugador humano creado: Jugador2  	0
+04/05/2025 17:39:33: Jugador CPU creado: CPU1      	0
+04/05/2025 17:39:33: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 17:39:33: Le toca a CPU1
+04/05/2025 17:39:33: RESPUESTA NO CORRECTA!!
+04/05/2025 17:39:33: Le toca a Jugador2
+04/05/2025 17:39:33: Pregunta de Geografía
+04/05/2025 17:40:07: Le toca a CPU1
+04/05/2025 17:40:17: Pregunta de Matemáticas: 106211 ==> 106211
+04/05/2025 17:40:17: RESPUESTA CORRECTA!!
+04/05/2025 17:40:17: Le toca a Jugador2
+04/05/2025 17:40:17: Pregunta de Cronómetro
+04/05/2025 17:40:24: Fin de partida con 2 jugadores. Ganador ha sido CPU1
+04/05/2025 17:41:39: Estamos en modo depuración: true
+04/05/2025 17:41:39: Tamaño de ranking: 10
+04/05/2025 17:41:39: minNumEnterosPregMates: 4
+04/05/2025 17:41:39: maxNumEnterosPregMates: 8
+04/05/2025 17:41:39: minCifraPregMates: 2
+04/05/2025 17:41:39: maxCifraPregMates: 12
+04/05/2025 17:41:39: totalCifrasPregMasterMind: 3
+04/05/2025 17:41:39: maxCifraPregMastermind: 9
+04/05/2025 17:41:42: Estamos en modo depuración: true
+04/05/2025 17:41:42: Tamaño de ranking: 10
+04/05/2025 17:41:42: minNumEnterosPregMates: 4
+04/05/2025 17:41:42: maxNumEnterosPregMates: 8
+04/05/2025 17:41:42: minCifraPregMates: 2
+04/05/2025 17:41:42: maxCifraPregMates: 12
+04/05/2025 17:41:42: totalCifrasPregMasterMind: 3
+04/05/2025 17:41:42: maxCifraPregMastermind: 9
+04/05/2025 17:41:42: Jugador humano creado: Jugador2  	0
+04/05/2025 17:41:42: Jugador CPU creado: CPU1      	0
+04/05/2025 17:41:42: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 17:41:42: Le toca a CPU1
+04/05/2025 17:41:42: Pregunta de Cronómetro
+04/05/2025 17:41:42: Le toca a Jugador2
+04/05/2025 17:41:51: Pregunta de Mastermind
+04/05/2025 17:42:00: RESPUESTA CORRECTA!!
+04/05/2025 17:42:00: Le toca a CPU1
+04/05/2025 17:42:00: Pregunta de Matemáticas: 2 + 5 * 11 + 6103 - 109 ==> 6051
+04/05/2025 17:42:00: RESPUESTA CORRECTA!!
+04/05/2025 17:42:00: Le toca a Jugador2
+04/05/2025 17:42:00: Pregunta de Geografía
+04/05/2025 17:42:00: Fin de partida con 2 jugadores. Ha habido empate: CPU1 - Jugador2. Consulte el histórico para más información
+04/05/2025 17:42:12: Estamos en modo depuración: true
+04/05/2025 17:42:12: Tamaño de ranking: 10
+04/05/2025 17:42:12: minNumEnterosPregMates: 4
+04/05/2025 17:42:12: maxNumEnterosPregMates: 8
+04/05/2025 17:42:12: minCifraPregMates: 2
+04/05/2025 17:42:12: maxCifraPregMates: 12
+04/05/2025 17:42:12: totalCifrasPregMasterMind: 3
+04/05/2025 17:42:12: maxCifraPregMastermind: 9
+04/05/2025 17:42:12: Jugador humano creado: Jugador1  	0
+04/05/2025 17:42:12: Jugador CPU creado: CPU2      	0
+04/05/2025 17:42:12: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 17:42:12: Le toca a Jugador1
+04/05/2025 17:42:12: Pregunta de Mastermind
+04/05/2025 17:42:31: RESPUESTA NO CORRECTA!!
+04/05/2025 17:42:31: Le toca a CPU2
+04/05/2025 17:42:31: Pregunta de Geografía
+04/05/2025 17:42:31: Le toca a Jugador1
+04/05/2025 17:42:31: Pregunta de Geografía
+04/05/2025 17:42:31: Le toca a CPU2
+04/05/2025 17:42:31: Pregunta de Geografía
+04/05/2025 17:42:31: Fin de partida con 2 jugadores. Ha habido empate: Jugador1 - CPU2. Consulte el histórico para más información
+04/05/2025 17:42:44: Estamos en modo depuración: true
+04/05/2025 17:42:44: Tamaño de ranking: 10
+04/05/2025 17:42:44: minNumEnterosPregMates: 4
+04/05/2025 17:42:44: maxNumEnterosPregMates: 8
+04/05/2025 17:42:44: minCifraPregMates: 2
+04/05/2025 17:42:44: maxCifraPregMates: 12
+04/05/2025 17:42:44: totalCifrasPregMasterMind: 3
+04/05/2025 17:42:44: maxCifraPregMastermind: 9
+04/05/2025 17:42:44: Jugador humano creado: Jugador2  	0
+04/05/2025 17:42:44: Jugador CPU creado: CPU1      	0
+04/05/2025 17:42:44: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 17:42:44: Le toca a CPU1
+04/05/2025 17:42:44: Pregunta de Mastermind
+04/05/2025 17:42:44: RESPUESTA NO CORRECTA!!
+04/05/2025 17:42:44: Le toca a Jugador2
+04/05/2025 17:42:44: Pregunta de Matemáticas: 2 * 35 + 5105 ==> 5175
+04/05/2025 17:43:21: RESPUESTA CORRECTA!!
+04/05/2025 17:43:21: Le toca a CPU1
+04/05/2025 17:43:21: Pregunta de Mastermind
+04/05/2025 17:43:21: RESPUESTA NO CORRECTA!!
+04/05/2025 17:43:21: Le toca a Jugador2
+04/05/2025 17:43:21: Pregunta de Cronómetro
+04/05/2025 17:43:21: Fin de partida con 2 jugadores. Ganador ha sido Jugador2
+04/05/2025 17:43:38: Estamos en modo depuración: true
+04/05/2025 17:43:38: Tamaño de ranking: 10
+04/05/2025 17:43:38: minNumEnterosPregMates: 4
+04/05/2025 17:43:38: maxNumEnterosPregMates: 8
+04/05/2025 17:43:38: minCifraPregMates: 2
+04/05/2025 17:43:38: maxCifraPregMates: 12
+04/05/2025 17:43:38: totalCifrasPregMasterMind: 3
+04/05/2025 17:43:38: maxCifraPregMastermind: 9
+04/05/2025 17:43:38: Jugador humano creado: Jugador1  	0
+04/05/2025 17:43:38: Jugador CPU creado: CPU2      	0
+04/05/2025 17:43:38: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 17:43:38: Le toca a Jugador1
+04/05/2025 17:43:38: Pregunta de Matemáticas: 9 + 10 + 45 ==> 64
+04/05/2025 17:43:43: RESPUESTA NO CORRECTA!!
+04/05/2025 17:43:43: Le toca a CPU2
+04/05/2025 17:43:43: Pregunta de Mastermind
+04/05/2025 17:43:43: RESPUESTA NO CORRECTA!!
+04/05/2025 17:43:43: Le toca a Jugador1
+04/05/2025 17:43:43: Pregunta de Matemáticas: 5 - 12 - 11 + 5 + 3 ==> -10
+04/05/2025 17:43:56: RESPUESTA CORRECTA!!
+04/05/2025 17:43:56: Le toca a CPU2
+04/05/2025 17:43:56: Pregunta de Cronómetro
+04/05/2025 17:43:56: Fin de partida con 2 jugadores. Ganador ha sido Jugador1
+04/05/2025 21:15:45: Arranco la aplicación
+04/05/2025 21:15:45: Estamos en modo depuración: true
+04/05/2025 21:15:45: Tamaño de ranking: 10
+04/05/2025 21:15:45: minNumEnterosPregMates: 4
+04/05/2025 21:15:45: maxNumEnterosPregMates: 8
+04/05/2025 21:15:45: minCifraPregMates: 2
+04/05/2025 21:15:45: maxCifraPregMates: 12
+04/05/2025 21:15:45: totalCifrasPregMasterMind: 3
+04/05/2025 21:15:45: maxCifraPregMastermind: 9
+04/05/2025 21:16:14: Abro menú de jugadores
+04/05/2025 21:16:46: Menu crear jugadores
+04/05/2025 21:17:04: Jugador humano creado: Cook      	0
+04/05/2025 21:17:11: Jugador CPU creado: CPU2      	0
+04/05/2025 21:17:33: Muestro lista de jugadores
+04/05/2025 21:17:46: Menu borrar jugador
+04/05/2025 21:17:53: Jugador Antoine NO eliminado (por no ser encontrado)
+04/05/2025 21:17:57: Menu borrar jugador
+04/05/2025 21:18:01: Jugador CPU2 eliminado
+04/05/2025 21:18:04: Muestro lista de jugadores
+04/05/2025 21:18:43: Menu crear jugadores
+04/05/2025 21:18:51: Jugador humano creado: Jugador1  	0
+04/05/2025 21:18:54: Jugador CPU creado: CPU2      	0
+04/05/2025 21:18:56: Muestro lista de jugadores
+04/05/2025 21:19:07: Salgo del menú jugadores
+04/05/2025 21:19:21: Muestra Ranking
+04/05/2025 21:19:45: Muestra histórico
+04/05/2025 21:20:00: Comienzo partida
+04/05/2025 21:20:00: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:20:11: Jugamos a 2 rondas
+04/05/2025 21:20:11: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:20:11: Le toca a Jugador1
+04/05/2025 21:20:11: Pregunta de Mastermind
+04/05/2025 21:22:45: RESPUESTA CORRECTA!!
+04/05/2025 21:22:45: Le toca a CPU2
+04/05/2025 21:22:45: Pregunta de Cronómetro
+04/05/2025 21:22:45: Le toca a Jugador1
+04/05/2025 21:22:45: Pregunta de Matemáticas: 9 - 55 + 10 * 1110 * 3 * 10 ==> 332954
+04/05/2025 21:23:24: RESPUESTA CORRECTA!!
+04/05/2025 21:23:24: Le toca a CPU2
+04/05/2025 21:23:24: Pregunta de Mastermind
+04/05/2025 21:23:24: RESPUESTA NO CORRECTA!!
+04/05/2025 21:23:24: Fin de partida con 2 jugadores. Ganador ha sido Jugador1
+04/05/2025 21:23:59: Muestra histórico
+04/05/2025 21:24:08: Muestra Ranking
+04/05/2025 21:25:17: Comienzo partida
+04/05/2025 21:25:17: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:25:26: Jugamos a 3 rondas
+04/05/2025 21:25:26: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:25:26: Le toca a Jugador1
+04/05/2025 21:25:26: Pregunta de Mastermind
+04/05/2025 21:25:32: RESPUESTA CORRECTA!!
+04/05/2025 21:25:32: Le toca a CPU2
+04/05/2025 21:25:32: Pregunta de Geografía
+04/05/2025 21:25:32: Le toca a Jugador1
+04/05/2025 21:25:32: Pregunta de Mastermind
+04/05/2025 21:26:11: RESPUESTA CORRECTA!!
+04/05/2025 21:26:11: Le toca a CPU2
+04/05/2025 21:26:11: Pregunta de Matemáticas: 5 + 12 - 12 - 11 + 108 - 3 ==> 99
+04/05/2025 21:26:11: RESPUESTA CORRECTA!!
+04/05/2025 21:26:11: Le toca a Jugador1
+04/05/2025 21:26:11: Pregunta de Cronómetro
+04/05/2025 21:26:11: Le toca a CPU2
+04/05/2025 21:26:11: Pregunta de Geografía
+04/05/2025 21:26:11: Fin de partida con 2 jugadores. Ganador ha sido Jugador1
+04/05/2025 21:26:15: Muestra Ranking
+04/05/2025 21:27:20: Comienzo partida
+04/05/2025 21:27:20: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:27:23: Jugamos a 2 rondas
+04/05/2025 21:27:23: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:27:23: Le toca a Jugador1
+04/05/2025 21:27:23: Pregunta de Cronómetro
+04/05/2025 21:27:23: Le toca a CPU2
+04/05/2025 21:27:42: Pregunta de Mastermind
+04/05/2025 21:28:24: RESPUESTA NO CORRECTA!!
+04/05/2025 21:28:24: Le toca a Jugador1
+04/05/2025 21:28:24: Pregunta de Cronómetro
+04/05/2025 21:28:24: Le toca a CPU2
+04/05/2025 21:28:28: Pregunta de Mastermind
+04/05/2025 21:28:36: RESPUESTA NO CORRECTA!!
+04/05/2025 21:28:36: Fin de partida con 2 jugadores. Ganador ha sido Jugador1
+04/05/2025 21:29:29: Arranco la aplicación
+04/05/2025 21:29:29: Estamos en modo depuración: true
+04/05/2025 21:29:29: Tamaño de ranking: 10
+04/05/2025 21:29:29: minNumEnterosPregMates: 4
+04/05/2025 21:29:29: maxNumEnterosPregMates: 8
+04/05/2025 21:29:29: minCifraPregMates: 2
+04/05/2025 21:29:29: maxCifraPregMates: 12
+04/05/2025 21:29:29: totalCifrasPregMasterMind: 3
+04/05/2025 21:29:29: maxCifraPregMastermind: 9
+04/05/2025 21:29:33: Abro menú de jugadores
+04/05/2025 21:29:35: Menu crear jugadores
+04/05/2025 21:29:40: Jugador humano creado: Jugador2  	0
+04/05/2025 21:29:42: Jugador CPU creado: CPU1      	0
+04/05/2025 21:29:45: Salgo del menú jugadores
+04/05/2025 21:29:47: Comienzo partida
+04/05/2025 21:29:47: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:29:50: Jugamos a 2 rondas
+04/05/2025 21:29:50: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:29:50: Le toca a CPU1
+04/05/2025 21:29:50: Pregunta de Cronómetro
+04/05/2025 21:29:50: Le toca a Jugador2
+04/05/2025 21:29:50: Pregunta de Matemáticas: 41012 + 12 - 875 ==> 40149
+04/05/2025 21:30:02: RESPUESTA CORRECTA!!
+04/05/2025 21:30:02: Le toca a CPU1
+04/05/2025 21:30:02: Pregunta de Geografía
+04/05/2025 21:30:02: Le toca a Jugador2
+04/05/2025 21:30:14: Pregunta de Mastermind
+04/05/2025 21:30:57: RESPUESTA CORRECTA!!
+04/05/2025 21:31:01: Fin de partida con 2 jugadores. Ganador ha sido Jugador2
+04/05/2025 21:31:05: Comienzo partida
+04/05/2025 21:31:05: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:31:07: Jugamos a 2 rondas
+04/05/2025 21:31:07: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:31:07: Le toca a CPU1
+04/05/2025 21:31:07: Pregunta de Cronómetro
+04/05/2025 21:31:07: Le toca a Jugador2
+04/05/2025 21:31:17: Pregunta de Mastermind
+04/05/2025 21:32:01: RESPUESTA CORRECTA!!
+04/05/2025 21:32:01: Le toca a CPU1
+04/05/2025 21:32:07: Pregunta de Mastermind
+04/05/2025 21:32:20: RESPUESTA NO CORRECTA!!
+04/05/2025 21:32:20: Le toca a Jugador2
+04/05/2025 21:32:20: Pregunta de Geografía
+04/05/2025 21:32:20: Fin de partida con 2 jugadores. Ganador ha sido Jugador2
+04/05/2025 21:32:40: Comienzo partida
+04/05/2025 21:32:40: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:32:41: Jugamos a 2 rondas
+04/05/2025 21:32:41: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:32:41: Le toca a CPU1
+04/05/2025 21:32:41: Pregunta de Cronómetro
+04/05/2025 21:32:41: Le toca a Jugador2
+04/05/2025 21:32:41: Pregunta de Mastermind
+04/05/2025 21:33:00: RESPUESTA CORRECTA!!
+04/05/2025 21:33:00: Le toca a CPU1
+04/05/2025 21:33:00: Pregunta de Mastermind
+04/05/2025 21:33:00: RESPUESTA NO CORRECTA!!
+04/05/2025 21:33:00: Le toca a Jugador2
+04/05/2025 21:33:00: Pregunta de Cronómetro
+04/05/2025 21:33:00: Fin de partida con 2 jugadores. Ganador ha sido Jugador2
+04/05/2025 21:33:18: Comienzo partida
+04/05/2025 21:33:18: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:33:19: Jugamos a 2 rondas
+04/05/2025 21:33:19: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:33:19: Le toca a CPU1
+04/05/2025 21:33:19: Pregunta de Matemáticas: 7611 + 11 + 8 - 5 + 6 + 9 ==> 7640
+04/05/2025 21:33:19: RESPUESTA CORRECTA!!
+04/05/2025 21:33:19: Le toca a Jugador2
+04/05/2025 21:33:19: Pregunta de Mastermind
+04/05/2025 21:33:26: RESPUESTA CORRECTA!!
+04/05/2025 21:33:26: Le toca a CPU1
+04/05/2025 21:33:26: Pregunta de Mastermind
+04/05/2025 21:33:26: RESPUESTA NO CORRECTA!!
+04/05/2025 21:33:26: Le toca a Jugador2
+04/05/2025 21:33:26: Pregunta de Matemáticas: 10 - 5 * 44 - 7 * 8 - 3 ==> -269
+04/05/2025 21:33:37: RESPUESTA NO CORRECTA!!
+04/05/2025 21:33:37: Fin de partida con 2 jugadores. Ganador ha sido Jugador2
+04/05/2025 21:33:40: Comienzo partida
+04/05/2025 21:33:40: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:33:41: Jugamos a 2 rondas
+04/05/2025 21:33:41: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 21:33:41: Le toca a CPU1
+04/05/2025 21:33:41: Pregunta de Cronómetro
+04/05/2025 21:33:41: Le toca a Jugador2
+04/05/2025 21:33:41: Pregunta de Cronómetro
+04/05/2025 21:33:41: Le toca a CPU1
+04/05/2025 21:33:41: Pregunta de Cronómetro
+04/05/2025 21:33:41: Le toca a Jugador2
+04/05/2025 21:33:41: Pregunta de Matemáticas: 11 * 127 * 7 + 12 * 2 + 2 ==> 9805
+04/05/2025 21:33:51: RESPUESTA CORRECTA!!
+04/05/2025 21:33:51: Fin de partida con 2 jugadores. Ganador ha sido Jugador2
+04/05/2025 21:33:59: Muestra Ranking
+04/05/2025 21:34:07: Paro la aplicación
+04/05/2025 21:52:30: Estamos en modo depuración: true
+04/05/2025 21:52:30: Tamaño de ranking: 10
+04/05/2025 21:52:30: minNumEnterosPregMates: 4
+04/05/2025 21:52:30: maxNumEnterosPregMates: 8
+04/05/2025 21:52:30: minCifraPregMates: 2
+04/05/2025 21:52:30: maxCifraPregMates: 12
+04/05/2025 21:52:30: totalCifrasPregMasterMind: 3
+04/05/2025 21:52:30: maxCifraPregMastermind: 9
+04/05/2025 21:55:24: Pregunta de Mastermind
+04/05/2025 21:57:39: Pregunta de Mastermind
+04/05/2025 21:58:50: Estamos en modo depuración: true
+04/05/2025 21:58:50: Tamaño de ranking: 10
+04/05/2025 21:58:50: minNumEnterosPregMates: 4
+04/05/2025 21:58:50: maxNumEnterosPregMates: 8
+04/05/2025 21:58:50: minCifraPregMates: 2
+04/05/2025 21:58:50: maxCifraPregMates: 12
+04/05/2025 21:58:50: totalCifrasPregMasterMind: 3
+04/05/2025 21:58:50: maxCifraPregMastermind: 9
+04/05/2025 21:58:57: Pregunta de Mastermind
+04/05/2025 21:59:48: Arranco la aplicación
+04/05/2025 21:59:48: Estamos en modo depuración: true
+04/05/2025 21:59:48: Tamaño de ranking: 10
+04/05/2025 21:59:48: minNumEnterosPregMates: 4
+04/05/2025 21:59:48: maxNumEnterosPregMates: 8
+04/05/2025 21:59:48: minCifraPregMates: 2
+04/05/2025 21:59:48: maxCifraPregMates: 12
+04/05/2025 21:59:48: totalCifrasPregMasterMind: 3
+04/05/2025 21:59:48: maxCifraPregMastermind: 9
+04/05/2025 21:59:51: Abro menú de jugadores
+04/05/2025 21:59:53: Menu crear jugadores
+04/05/2025 22:00:02: Jugador humano creado: Jugador2  	0
+04/05/2025 22:00:04: Jugador CPU creado: CPU1      	0
+04/05/2025 22:00:07: Salgo del menú jugadores
+04/05/2025 22:00:09: Comienzo partida
+04/05/2025 22:00:09: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:00:11: Jugamos a 2 rondas
+04/05/2025 22:00:11: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:00:11: Le toca a CPU1
+04/05/2025 22:00:11: Pregunta de Cronómetro
+04/05/2025 22:00:11: Le toca a Jugador2
+04/05/2025 22:00:11: Pregunta de Mastermind
+04/05/2025 22:00:48: Arranco la aplicación
+04/05/2025 22:00:48: Estamos en modo depuración: true
+04/05/2025 22:00:48: Tamaño de ranking: 10
+04/05/2025 22:00:48: minNumEnterosPregMates: 4
+04/05/2025 22:00:48: maxNumEnterosPregMates: 8
+04/05/2025 22:00:48: minCifraPregMates: 2
+04/05/2025 22:00:48: maxCifraPregMates: 12
+04/05/2025 22:00:48: totalCifrasPregMasterMind: 3
+04/05/2025 22:00:48: maxCifraPregMastermind: 9
+04/05/2025 22:00:51: Abro menú de jugadores
+04/05/2025 22:00:54: Menu crear jugadores
+04/05/2025 22:00:57: Jugador humano creado: Jugador1  	0
+04/05/2025 22:00:58: Jugador CPU creado: CPU2      	0
+04/05/2025 22:01:00: Salgo del menú jugadores
+04/05/2025 22:01:02: Comienzo partida
+04/05/2025 22:01:02: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:01:03: Jugamos a 2 rondas
+04/05/2025 22:01:03: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:01:03: Le toca a Jugador1
+04/05/2025 22:01:03: Pregunta de Matemáticas: 10 + 6 + 310 + 12 ==> 338
+04/05/2025 22:01:06: RESPUESTA CORRECTA!!
+04/05/2025 22:01:06: Le toca a CPU2
+04/05/2025 22:01:06: Pregunta de Mastermind
+04/05/2025 22:01:06: RESPUESTA NO CORRECTA!!
+04/05/2025 22:01:06: Le toca a Jugador1
+04/05/2025 22:01:06: Pregunta de Geografía
+04/05/2025 22:01:06: Le toca a CPU2
+04/05/2025 22:01:06: Pregunta de Mastermind
+04/05/2025 22:01:06: RESPUESTA NO CORRECTA!!
+04/05/2025 22:01:07: Fin de partida con 2 jugadores. Ganador ha sido Jugador1
+04/05/2025 22:01:21: Comienzo partida
+04/05/2025 22:01:21: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:01:22: Jugamos a 2 rondas
+04/05/2025 22:01:22: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:01:22: Le toca a Jugador1
+04/05/2025 22:01:22: Pregunta de Cronómetro
+04/05/2025 22:01:22: Le toca a CPU2
+04/05/2025 22:01:22: Pregunta de Mastermind
+04/05/2025 22:01:22: RESPUESTA NO CORRECTA!!
+04/05/2025 22:01:22: Le toca a Jugador1
+04/05/2025 22:01:22: Pregunta de Cronómetro
+04/05/2025 22:01:22: Le toca a CPU2
+04/05/2025 22:01:22: Pregunta de Matemáticas: 8 * 2 * 92 * 6 * 12 - 5 * 7 ==> 105949
+04/05/2025 22:01:22: RESPUESTA CORRECTA!!
+04/05/2025 22:01:22: Fin de partida con 2 jugadores. Ha habido empate: Jugador1 - CPU2. Consulte el histórico para más información
+04/05/2025 22:01:31: Comienzo partida
+04/05/2025 22:01:31: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:01:33: Jugamos a 2 rondas
+04/05/2025 22:01:33: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:01:33: Le toca a Jugador1
+04/05/2025 22:01:33: Pregunta de Mastermind
+04/05/2025 22:01:38: RESPUESTA CORRECTA!!
+04/05/2025 22:01:38: Le toca a CPU2
+04/05/2025 22:01:38: Pregunta de Cronómetro
+04/05/2025 22:01:38: Le toca a Jugador1
+04/05/2025 22:01:38: Pregunta de Mastermind
+04/05/2025 22:02:10: RESPUESTA CORRECTA!!
+04/05/2025 22:02:10: Le toca a CPU2
+04/05/2025 22:02:10: Pregunta de Mastermind
+04/05/2025 22:02:10: RESPUESTA NO CORRECTA!!
+04/05/2025 22:02:10: Fin de partida con 2 jugadores. Ganador ha sido Jugador1
+04/05/2025 22:02:12: Paro la aplicación
+04/05/2025 22:31:24: Estamos en modo depuración: true
+04/05/2025 22:31:24: Tamaño de ranking: 10
+04/05/2025 22:31:24: minNumEnterosPregMates: 4
+04/05/2025 22:31:24: maxNumEnterosPregMates: 8
+04/05/2025 22:31:24: minCifraPregMates: 2
+04/05/2025 22:31:24: maxCifraPregMates: 12
+04/05/2025 22:31:24: totalCifrasPregMasterMind: 3
+04/05/2025 22:31:24: maxCifraPregMastermind: 9
+04/05/2025 22:32:10: Pregunta de Mastermind
+04/05/2025 22:32:52: Estamos en modo depuración: true
+04/05/2025 22:32:52: Tamaño de ranking: 10
+04/05/2025 22:32:52: minNumEnterosPregMates: 4
+04/05/2025 22:32:52: maxNumEnterosPregMates: 8
+04/05/2025 22:32:52: minCifraPregMates: 2
+04/05/2025 22:32:52: maxCifraPregMates: 12
+04/05/2025 22:32:52: totalCifrasPregMasterMind: 3
+04/05/2025 22:32:52: maxCifraPregMastermind: 9
+04/05/2025 22:33:12: Pregunta de Mastermind
+04/05/2025 22:33:30: Estamos en modo depuración: true
+04/05/2025 22:33:30: Tamaño de ranking: 10
+04/05/2025 22:33:30: minNumEnterosPregMates: 4
+04/05/2025 22:33:30: maxNumEnterosPregMates: 8
+04/05/2025 22:33:30: minCifraPregMates: 2
+04/05/2025 22:33:30: maxCifraPregMates: 12
+04/05/2025 22:33:30: totalCifrasPregMasterMind: 3
+04/05/2025 22:33:30: maxCifraPregMastermind: 9
+04/05/2025 22:33:30: Jugador humano creado: Jugador1  	0
+04/05/2025 22:33:30: Jugador CPU creado: CPU2      	0
+04/05/2025 22:33:30: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:33:30: Le toca a Jugador1
+04/05/2025 22:33:30: Pregunta de Geografía
+04/05/2025 22:33:30: Le toca a CPU2
+04/05/2025 22:33:30: Pregunta de Mastermind
+04/05/2025 22:33:30: RESPUESTA NO CORRECTA!!
+04/05/2025 22:33:30: Le toca a Jugador1
+04/05/2025 22:33:30: Pregunta de Cronómetro
+04/05/2025 22:33:30: Le toca a CPU2
+04/05/2025 22:33:30: Pregunta de Matemáticas: 11 + 11 * 6 + 2 ==> 79
+04/05/2025 22:33:30: RESPUESTA CORRECTA!!
+04/05/2025 22:33:30: Fin de partida con 2 jugadores. Ganador ha sido CPU2
+04/05/2025 22:33:35: Estamos en modo depuración: true
+04/05/2025 22:33:35: Tamaño de ranking: 10
+04/05/2025 22:33:35: minNumEnterosPregMates: 4
+04/05/2025 22:33:35: maxNumEnterosPregMates: 8
+04/05/2025 22:33:35: minCifraPregMates: 2
+04/05/2025 22:33:35: maxCifraPregMates: 12
+04/05/2025 22:33:35: totalCifrasPregMasterMind: 3
+04/05/2025 22:33:35: maxCifraPregMastermind: 9
+04/05/2025 22:33:35: Jugador humano creado: Jugador1  	0
+04/05/2025 22:33:35: Jugador CPU creado: CPU2      	0
+04/05/2025 22:33:35: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:33:35: Le toca a Jugador1
+04/05/2025 22:33:35: Pregunta de Matemáticas: 11 - 211612 * 6 - 3 + 10 ==> -1269654
+04/05/2025 22:33:50: RESPUESTA NO CORRECTA!!
+04/05/2025 22:33:50: Le toca a CPU2
+04/05/2025 22:33:50: Pregunta de Matemáticas: 6 + 5 - 12 - 311 + 10 - 24 ==> -326
+04/05/2025 22:33:50: RESPUESTA CORRECTA!!
+04/05/2025 22:33:50: Le toca a Jugador1
+04/05/2025 22:33:50: Pregunta de Matemáticas: 7 - 11 + 9 + 9 ==> 14
+04/05/2025 22:34:06: RESPUESTA CORRECTA!!
+04/05/2025 22:34:06: Le toca a CPU2
+04/05/2025 22:34:06: Pregunta de Cronómetro
+04/05/2025 22:34:06: Fin de partida con 2 jugadores. Ha habido empate: Jugador1 - CPU2. Consulte el histórico para más información
+04/05/2025 22:34:12: Estamos en modo depuración: true
+04/05/2025 22:34:12: Tamaño de ranking: 10
+04/05/2025 22:34:12: minNumEnterosPregMates: 4
+04/05/2025 22:34:12: maxNumEnterosPregMates: 8
+04/05/2025 22:34:12: minCifraPregMates: 2
+04/05/2025 22:34:12: maxCifraPregMates: 12
+04/05/2025 22:34:12: totalCifrasPregMasterMind: 3
+04/05/2025 22:34:12: maxCifraPregMastermind: 9
+04/05/2025 22:34:12: Jugador humano creado: Jugador2  	0
+04/05/2025 22:34:12: Jugador CPU creado: CPU1      	0
+04/05/2025 22:34:12: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:34:12: Le toca a CPU1
+04/05/2025 22:34:12: Pregunta de Geografía
+04/05/2025 22:34:12: Le toca a Jugador2
+04/05/2025 22:34:12: Pregunta de Geografía
+04/05/2025 22:34:12: Le toca a CPU1
+04/05/2025 22:34:12: Pregunta de Mastermind
+04/05/2025 22:34:12: RESPUESTA NO CORRECTA!!
+04/05/2025 22:34:12: Le toca a Jugador2
+04/05/2025 22:34:12: Pregunta de Mastermind
+04/05/2025 22:34:21: RESPUESTA CORRECTA!!
+04/05/2025 22:34:21: Fin de partida con 2 jugadores. Ganador ha sido Jugador2
+04/05/2025 22:34:24: Estamos en modo depuración: true
+04/05/2025 22:34:24: Tamaño de ranking: 10
+04/05/2025 22:34:24: minNumEnterosPregMates: 4
+04/05/2025 22:34:24: maxNumEnterosPregMates: 8
+04/05/2025 22:34:24: minCifraPregMates: 2
+04/05/2025 22:34:24: maxCifraPregMates: 12
+04/05/2025 22:34:24: totalCifrasPregMasterMind: 3
+04/05/2025 22:34:24: maxCifraPregMastermind: 9
+04/05/2025 22:34:24: Jugador humano creado: Jugador1  	0
+04/05/2025 22:34:24: Jugador CPU creado: CPU2      	0
+04/05/2025 22:34:24: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+04/05/2025 22:34:24: Le toca a Jugador1
+04/05/2025 22:34:24: Pregunta de Matemáticas: 1152 - 2 + 39 ==> 1189
+04/05/2025 22:34:52: RESPUESTA CORRECTA!!
+04/05/2025 22:34:52: Le toca a CPU2
+04/05/2025 22:34:52: Pregunta de Matemáticas: 9 - 8 * 7 - 2 ==> -49
+04/05/2025 22:34:52: RESPUESTA CORRECTA!!
+04/05/2025 22:34:52: Le toca a Jugador1
+04/05/2025 22:34:52: Pregunta de Matemáticas: 11 + 6 - 3 - 3 * 83 ==> -235
+04/05/2025 22:35:08: RESPUESTA NO CORRECTA!!
+04/05/2025 22:35:08: Le toca a CPU2
+04/05/2025 22:35:08: Pregunta de Matemáticas: 5 + 9 - 6 - 12 + 10 + 7 ==> 13
+04/05/2025 22:35:08: RESPUESTA CORRECTA!!
+04/05/2025 22:35:08: Fin de partida con 2 jugadores. Ganador ha sido CPU2
+04/05/2025 22:45:37: Arranco la aplicación
+04/05/2025 22:45:37: Estamos en modo depuración: true
+04/05/2025 22:45:37: Tamaño de ranking: 10
+04/05/2025 22:45:37: minNumEnterosPregMates: 4
+04/05/2025 22:45:37: maxNumEnterosPregMates: 8
+04/05/2025 22:45:37: minCifraPregMates: 2
+04/05/2025 22:45:37: maxCifraPregMates: 12
+04/05/2025 22:45:37: totalCifrasPregMasterMind: 3
+04/05/2025 22:45:37: maxCifraPregMastermind: 9
+04/05/2025 22:45:40: Comienzo partida
+04/05/2025 22:45:44: Abro menú de jugadores
+04/05/2025 22:45:49: Menu borrar jugador
+04/05/2025 22:45:57: Muestro lista de jugadores
+04/05/2025 22:46:02: Menu crear jugadores
+04/05/2025 22:46:12: Jugador humano creado: Jugador1  	0
+04/05/2025 22:46:16: Jugador CPU creado: CPU2      	0
+04/05/2025 22:46:22: Jugador humano creado: Ant       	0
+04/05/2025 22:46:25: Muestro lista de jugadores
+04/05/2025 22:46:46: Menu borrar jugador
+04/05/2025 22:46:55: Jugador jugadoR1 eliminado
+04/05/2025 22:47:00: Muestro lista de jugadores
+04/05/2025 22:47:21: Menu borrar jugador
+04/05/2025 22:47:25: Jugador cpu2 eliminado
+04/05/2025 22:47:28: Menu borrar jugador
+04/05/2025 22:47:31: Jugador euieueue NO eliminado (por no ser encontrado)
+04/05/2025 22:47:36: Muestro lista de jugadores
+04/05/2025 22:47:57: Salgo del menú jugadores
+04/05/2025 22:47:59: Comienzo partida
+04/05/2025 22:48:06: Abro menú de jugadores
+04/05/2025 22:48:21: Menu crear jugadores
+04/05/2025 22:48:30: Jugador humano creado: anto      	0
+04/05/2025 22:48:32: Jugador CPU creado: CPU1      	0
+04/05/2025 22:48:34: Muestro lista de jugadores
+04/05/2025 22:48:41: Menu borrar jugador
+04/05/2025 22:48:47: ERROR: No se admiten espacios en blanco en los nombres de jugadores
+04/05/2025 22:48:55: Jugador cPu1 eliminado
+04/05/2025 22:48:58: Muestro lista de jugadores
+04/05/2025 22:49:01: Menu borrar jugador
+04/05/2025 22:49:08: Jugador antO eliminado
+04/05/2025 22:49:10: Muestro lista de jugadores
+04/05/2025 22:49:16: Menu borrar jugador
+04/05/2025 22:49:32: Salgo del menú jugadores
+04/05/2025 22:49:34: Comienzo partida
+04/05/2025 22:49:41: Paro la aplicación

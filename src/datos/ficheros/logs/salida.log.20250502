@@ -1,0 +1,631 @@
+02/05/2025 10:34:34: Arranco la aplicación
+02/05/2025 10:34:34: Estamos en modo depuración: false
+02/05/2025 10:34:34: Tamaño de ranking: 10
+02/05/2025 10:34:38: Abro menú de jugadores
+02/05/2025 10:34:40: Menu crear jugadores
+02/05/2025 10:34:47: Jugador humano creado: Nombre = Jugador2, Puntos = 0
+02/05/2025 10:34:50: Jugador CPU creado: Nombre = CPU1, Puntos = 0
+02/05/2025 10:34:53: Salgo del menú jugadores
+02/05/2025 10:35:01: Muestra Ranking
+02/05/2025 11:14:43: Arranco la aplicación
+02/05/2025 11:14:43: Estamos en modo depuración: false
+02/05/2025 11:14:43: Tamaño de ranking: 10
+02/05/2025 11:14:46: Comienzo partida
+02/05/2025 11:14:49: Abro menú de jugadores
+02/05/2025 11:14:50: Menu crear jugadores
+02/05/2025 11:14:54: Jugador humano creado: Nombre = Jugador2, Puntos = 0
+02/05/2025 11:14:54: Jugador CPU creado: Nombre = CPU1, Puntos = 0
+02/05/2025 11:14:56: Salgo del menú jugadores
+02/05/2025 11:14:58: Comienzo partida
+02/05/2025 11:14:58: Comienza la partida con 2 jugadores.
+02/05/2025 11:15:02: Jugamos a 3 rondas
+02/05/2025 11:15:02: Inicio Menú de Partida
+02/05/2025 11:15:02: Pregunta de Geografía
+02/05/2025 11:15:02: Pregunta de Mastermind
+02/05/2025 11:15:02: Pregunta de Mastermind
+02/05/2025 11:15:02: Pregunta de Geografía
+02/05/2025 11:15:02: Pregunta de Matemáticas
+02/05/2025 11:15:02: Pregunta de Mastermind
+02/05/2025 11:15:02: Se acabó la partida
+02/05/2025 11:15:02: ERROR: Al escribir en el fichero Histórico --> src\datos.ficheros.logs\historico.log (El sistema no puede encontrar la ruta especificada)
+02/05/2025 11:15:15: Arranco la aplicación
+02/05/2025 11:15:15: Estamos en modo depuración: false
+02/05/2025 11:15:15: Tamaño de ranking: 10
+02/05/2025 11:15:19: Abro menú de jugadores
+02/05/2025 11:15:20: Menu crear jugadores
+02/05/2025 11:15:23: Jugador humano creado: Nombre = Jugador1, Puntos = 0
+02/05/2025 11:15:24: Jugador CPU creado: Nombre = CPU2, Puntos = 0
+02/05/2025 11:15:26: Salgo del menú jugadores
+02/05/2025 11:15:26: Comienzo partida
+02/05/2025 11:15:26: Comienza la partida con 2 jugadores.
+02/05/2025 11:15:29: Jugamos a 2 rondas
+02/05/2025 11:15:29: Inicio Menú de Partida
+02/05/2025 11:15:29: Pregunta de Mastermind
+02/05/2025 11:15:29: Pregunta de Geografía
+02/05/2025 11:15:29: Pregunta de Matemáticas
+02/05/2025 11:15:29: Pregunta de Matemáticas
+02/05/2025 11:15:29: Se acabó la partida
+02/05/2025 11:15:29: ERROR: Al escribir en el fichero Histórico --> src\datos.ficheros.logs\historico.log (El sistema no puede encontrar la ruta especificada)
+02/05/2025 11:16:06: Comienzo partida
+02/05/2025 11:16:06: Comienza la partida con 2 jugadores.
+02/05/2025 11:16:11: Jugamos a 2 rondas
+02/05/2025 11:16:11: Inicio Menú de Partida
+02/05/2025 11:16:11: Pregunta de Geografía
+02/05/2025 11:16:11: Pregunta de Mastermind
+02/05/2025 11:16:11: Pregunta de Geografía
+02/05/2025 11:16:11: Pregunta de Geografía
+02/05/2025 11:16:11: Se acabó la partida
+02/05/2025 11:16:11: ERROR: Al escribir en el fichero Histórico --> src\datos.ficheros.logs\historico.log (El sistema no puede encontrar la ruta especificada)
+02/05/2025 11:16:25: Comienzo partida
+02/05/2025 11:16:25: Comienza la partida con 2 jugadores.
+02/05/2025 11:16:27: Jugamos a 2 rondas
+02/05/2025 11:16:27: Inicio Menú de Partida
+02/05/2025 11:16:27: Pregunta de Matemáticas
+02/05/2025 11:16:27: Pregunta de Geografía
+02/05/2025 11:16:27: Pregunta de Geografía
+02/05/2025 11:16:27: Pregunta de Matemáticas
+02/05/2025 11:16:27: Se acabó la partida
+02/05/2025 11:16:27: ERROR: Al escribir en el fichero Histórico --> src\datos.ficheros.logs\historico.log (El sistema no puede encontrar la ruta especificada)
+02/05/2025 11:16:35: Comienzo partida
+02/05/2025 11:16:35: Comienza la partida con 2 jugadores.
+02/05/2025 11:16:38: Jugamos a 3 rondas
+02/05/2025 11:16:38: Inicio Menú de Partida
+02/05/2025 11:16:38: Pregunta de Mastermind
+02/05/2025 11:16:38: Pregunta de Matemáticas
+02/05/2025 11:16:38: Pregunta de Mastermind
+02/05/2025 11:16:38: Pregunta de Geografía
+02/05/2025 11:16:38: Pregunta de Matemáticas
+02/05/2025 11:16:38: Pregunta de Geografía
+02/05/2025 11:16:38: Se acabó la partida
+02/05/2025 11:16:38: ERROR: Al escribir en el fichero Histórico --> src\datos.ficheros.logs\historico.log (El sistema no puede encontrar la ruta especificada)
+02/05/2025 11:16:51: Comienzo partida
+02/05/2025 11:16:51: Comienza la partida con 2 jugadores.
+02/05/2025 11:16:53: Jugamos a 8 rondas
+02/05/2025 11:16:53: Inicio Menú de Partida
+02/05/2025 11:16:53: Pregunta de Matemáticas
+02/05/2025 11:16:53: Pregunta de Matemáticas
+02/05/2025 11:16:53: Pregunta de Geografía
+02/05/2025 11:16:53: Pregunta de Mastermind
+02/05/2025 11:16:53: Pregunta de Mastermind
+02/05/2025 11:16:53: Pregunta de Matemáticas
+02/05/2025 11:16:53: Pregunta de Mastermind
+02/05/2025 11:16:53: Pregunta de Matemáticas
+02/05/2025 11:16:53: Pregunta de Geografía
+02/05/2025 11:16:53: Pregunta de Matemáticas
+02/05/2025 11:16:53: Pregunta de Matemáticas
+02/05/2025 11:16:53: Pregunta de Matemáticas
+02/05/2025 11:16:53: Pregunta de Matemáticas
+02/05/2025 11:16:53: Pregunta de Mastermind
+02/05/2025 11:16:53: Pregunta de Matemáticas
+02/05/2025 11:16:53: Pregunta de Mastermind
+02/05/2025 11:16:53: Se acabó la partida
+02/05/2025 11:16:53: ERROR: Al escribir en el fichero Histórico --> src\datos.ficheros.logs\historico.log (El sistema no puede encontrar la ruta especificada)
+02/05/2025 11:17:33: Arranco la aplicación
+02/05/2025 11:17:33: Estamos en modo depuración: false
+02/05/2025 11:17:33: Tamaño de ranking: 10
+02/05/2025 11:17:39: Abro menú de jugadores
+02/05/2025 11:17:40: Menu crear jugadores
+02/05/2025 11:17:43: Jugador humano creado: Nombre = Jugador2, Puntos = 0
+02/05/2025 11:17:44: Jugador CPU creado: Nombre = CPU1, Puntos = 0
+02/05/2025 11:17:47: Salgo del menú jugadores
+02/05/2025 11:17:48: Comienzo partida
+02/05/2025 11:17:48: Comienza la partida con 2 jugadores.
+02/05/2025 11:17:51: Jugamos a 5 rondas
+02/05/2025 11:17:51: Inicio Menú de Partida
+02/05/2025 11:17:51: Pregunta de Mastermind
+02/05/2025 11:17:51: Pregunta de Matemáticas
+02/05/2025 11:17:51: Pregunta de Geografía
+02/05/2025 11:17:51: Pregunta de Matemáticas
+02/05/2025 11:17:51: Pregunta de Geografía
+02/05/2025 11:17:51: Pregunta de Cronometro
+02/05/2025 11:17:51: Pregunta de Geografía
+02/05/2025 11:17:51: Pregunta de Mastermind
+02/05/2025 11:17:51: Pregunta de Mastermind
+02/05/2025 11:17:51: Pregunta de Matemáticas
+02/05/2025 11:17:51: Se acabó la partida
+02/05/2025 11:17:51: ERROR: Al escribir en el fichero Histórico --> src\datos.ficheros.logs\historico.log (El sistema no puede encontrar la ruta especificada)
+02/05/2025 11:20:05: Arranco la aplicación
+02/05/2025 11:20:05: Estamos en modo depuración: false
+02/05/2025 11:20:05: Tamaño de ranking: 10
+02/05/2025 11:20:09: Abro menú de jugadores
+02/05/2025 11:20:10: Menu crear jugadores
+02/05/2025 11:20:13: Jugador humano creado: Nombre = Jugador1, Puntos = 0
+02/05/2025 11:20:13: Jugador CPU creado: Nombre = CPU2, Puntos = 0
+02/05/2025 11:20:15: Salgo del menú jugadores
+02/05/2025 11:20:16: Comienzo partida
+02/05/2025 11:20:16: Comienza la partida con 2 jugadores.
+02/05/2025 11:20:17: Jugamos a 2 rondas
+02/05/2025 11:20:17: Inicio de Partida
+02/05/2025 11:20:17: Pregunta de Mastermind
+02/05/2025 11:20:17: Pregunta de Matemáticas
+02/05/2025 11:20:17: Pregunta de Cronometro
+02/05/2025 11:20:17: Pregunta de Geografía
+02/05/2025 11:20:17: Se acabó la partida
+02/05/2025 11:20:17: ERROR: Al escribir en el fichero Histórico --> src\datos.ficheros.logs\historico.log (El sistema no puede encontrar la ruta especificada)
+02/05/2025 11:34:55: Arranco la aplicación
+02/05/2025 11:34:55: Estamos en modo depuración: false
+02/05/2025 11:34:55: Tamaño de ranking: 10
+02/05/2025 11:34:57: Muestra Ranking
+02/05/2025 11:35:44: Arranco la aplicación
+02/05/2025 11:35:44: Estamos en modo depuración: false
+02/05/2025 11:35:44: Tamaño de ranking: 10
+02/05/2025 11:35:47: Muestra Ranking
+02/05/2025 11:37:54: Arranco la aplicación
+02/05/2025 11:37:54: Estamos en modo depuración: false
+02/05/2025 11:37:54: Tamaño de ranking: 10
+02/05/2025 11:37:56: Muestra historico
+02/05/2025 11:37:56: NO encuentro el fichero src/datos.ficheros.logs/historico.log
+02/05/2025 11:38:13: Muestra historico
+02/05/2025 11:38:13: NO encuentro el fichero src/datos.ficheros.logs/historico.log
+02/05/2025 11:38:27: Muestra historico
+02/05/2025 11:38:49: NO encuentro el fichero src/datos.ficheros.logs/historico.log
+02/05/2025 11:39:47: Arranco la aplicación
+02/05/2025 11:39:47: Estamos en modo depuración: false
+02/05/2025 11:39:47: Tamaño de ranking: 10
+02/05/2025 11:39:51: Muestra Ranking
+02/05/2025 11:40:00: Muestra historico
+02/05/2025 11:40:44: Paro la aplicación
+02/05/2025 13:39:53: Arranco la aplicación
+02/05/2025 13:39:53: Estamos en modo depuración: false
+02/05/2025 13:39:53: Tamaño de ranking: 10
+02/05/2025 13:39:57: Abro menú de jugadores
+02/05/2025 13:39:58: Menu crear jugadores
+02/05/2025 13:40:01: Jugador humano creado: Nombre = Jugador1, Puntos = 0
+02/05/2025 13:40:01: Jugador CPU creado: Nombre = CPU2, Puntos = 0
+02/05/2025 13:40:03: Salgo del menú jugadores
+02/05/2025 13:40:03: Comienzo partida
+02/05/2025 13:40:03: Comienza la partida con 2 jugadores.
+02/05/2025 13:40:09: Jugamos a 4 rondas
+02/05/2025 13:40:09: Inicio de Partida
+02/05/2025 13:40:09: Pregunta de Mastermind
+02/05/2025 13:40:09: Pregunta de Matemáticas
+02/05/2025 13:40:09: Pregunta de Geografía
+02/05/2025 13:40:09: Pregunta de Mastermind
+02/05/2025 13:40:09: Pregunta de Geografía
+02/05/2025 13:40:09: Pregunta de Geografía
+02/05/2025 13:40:09: Pregunta de Cronometro
+02/05/2025 13:40:09: Pregunta de Cronometro
+02/05/2025 13:40:09: Se acabó la partida
+02/05/2025 13:43:58: Arranco la aplicación
+02/05/2025 13:43:58: Estamos en modo depuración: false
+02/05/2025 13:43:58: Tamaño de ranking: 10
+02/05/2025 13:44:01: Abro menú de jugadores
+02/05/2025 13:44:02: Menu crear jugadores
+02/05/2025 13:44:04: Jugador humano creado: Nombre = Jugador1, Puntos = 0
+02/05/2025 13:44:05: Jugador CPU creado: Nombre = CPU2, Puntos = 0
+02/05/2025 13:44:07: Salgo del menú jugadores
+02/05/2025 13:44:10: Comienzo partida
+02/05/2025 13:44:10: Comienza la partida con 2 jugadores.
+02/05/2025 13:44:15: Jugamos a 2 rondas
+02/05/2025 13:44:15: Inicio de Partida
+02/05/2025 13:44:15: Pregunta de Geografía
+02/05/2025 13:44:15: Pregunta de Geografía
+02/05/2025 13:44:15: Pregunta de Matemáticas
+02/05/2025 13:44:15: Pregunta de Matemáticas
+02/05/2025 13:44:15: Se acabó la partida
+02/05/2025 13:45:20: Arranco la aplicación
+02/05/2025 13:45:20: Estamos en modo depuración: false
+02/05/2025 13:45:20: Tamaño de ranking: 10
+02/05/2025 13:45:23: Abro menú de jugadores
+02/05/2025 13:45:25: Menu crear jugadores
+02/05/2025 13:45:28: Jugador humano creado: Jugador1	0
+02/05/2025 13:45:30: Jugador CPU creado: CPU2	0
+02/05/2025 13:45:32: Salgo del menú jugadores
+02/05/2025 13:45:33: Comienzo partida
+02/05/2025 13:45:33: Comienza la partida con 2 jugadores.
+02/05/2025 13:45:36: Jugamos a 4 rondas
+02/05/2025 13:45:36: Inicio de Partida
+02/05/2025 13:45:36: Pregunta de Cronometro
+02/05/2025 13:45:36: Pregunta de Mastermind
+02/05/2025 13:45:36: Pregunta de Mastermind
+02/05/2025 13:45:36: Pregunta de Cronometro
+02/05/2025 13:45:36: Pregunta de Mastermind
+02/05/2025 13:45:36: Pregunta de Cronometro
+02/05/2025 13:45:36: Pregunta de Matemáticas
+02/05/2025 13:45:36: Pregunta de Cronometro
+02/05/2025 13:45:36: Se acabó la partida
+02/05/2025 13:46:53: Comienzo partida
+02/05/2025 13:46:53: Comienza la partida con 2 jugadores.
+02/05/2025 13:46:55: Jugamos a 3 rondas
+02/05/2025 13:46:55: Inicio de Partida
+02/05/2025 13:46:55: Pregunta de Mastermind
+02/05/2025 13:46:55: Pregunta de Mastermind
+02/05/2025 13:46:55: Pregunta de Mastermind
+02/05/2025 13:46:55: Pregunta de Cronometro
+02/05/2025 13:46:55: Pregunta de Mastermind
+02/05/2025 13:46:55: Pregunta de Mastermind
+02/05/2025 13:46:55: Se acabó la partida
+02/05/2025 13:50:44: Arranco la aplicación
+02/05/2025 13:50:44: Estamos en modo depuración: false
+02/05/2025 13:50:44: Tamaño de ranking: 4
+02/05/2025 13:50:47: Abro menú de jugadores
+02/05/2025 13:50:50: Menu crear jugadores
+02/05/2025 13:50:55: Jugador humano creado: Jugador1	0
+02/05/2025 13:50:57: Jugador CPU creado: CPU2	0
+02/05/2025 13:51:00: Salgo del menú jugadores
+02/05/2025 13:51:02: Comienzo partida
+02/05/2025 13:51:02: Comienza la partida con 2 jugadores.
+02/05/2025 13:51:03: Jugamos a 3 rondas
+02/05/2025 13:51:03: Inicio de Partida
+02/05/2025 13:51:03: Pregunta de Cronometro
+02/05/2025 13:51:03: Pregunta de Geografía
+02/05/2025 13:51:03: Pregunta de Mastermind
+02/05/2025 13:51:03: Pregunta de Cronometro
+02/05/2025 13:51:03: Pregunta de Geografía
+02/05/2025 13:51:03: Pregunta de Cronometro
+02/05/2025 13:51:03: Se acabó la partida
+02/05/2025 14:06:47: Arranco la aplicación
+02/05/2025 14:06:47: Estamos en modo depuración: false
+02/05/2025 14:06:47: Tamaño de ranking: 10
+02/05/2025 14:06:50: Abro menú de jugadores
+02/05/2025 14:06:51: Menu crear jugadores
+02/05/2025 14:06:54: Jugador humano creado: Jugador2  	750
+02/05/2025 14:06:56: Jugador CPU creado: CPU1      	0
+02/05/2025 14:07:24: Arranco la aplicación
+02/05/2025 14:07:24: Estamos en modo depuración: false
+02/05/2025 14:07:24: Tamaño de ranking: 10
+02/05/2025 14:07:30: Abro menú de jugadores
+02/05/2025 14:07:32: Menu crear jugadores
+02/05/2025 14:07:34: Jugador humano creado: Jugador1  	750
+02/05/2025 14:07:35: Jugador CPU creado: CPU2      	750
+02/05/2025 14:08:09: Arranco la aplicación
+02/05/2025 14:08:09: Estamos en modo depuración: false
+02/05/2025 14:08:09: Tamaño de ranking: 10
+02/05/2025 14:08:10: Abro menú de jugadores
+02/05/2025 14:08:13: Menu crear jugadores
+02/05/2025 14:08:16: Jugador humano creado: Jugador1  	1500
+02/05/2025 14:08:17: Jugador CPU creado: CPU2      	750
+02/05/2025 14:08:19: Muestro lista de jugadores
+02/05/2025 14:08:30: Salgo del menú jugadores
+02/05/2025 14:08:31: Comienzo partida
+02/05/2025 14:08:31: Comienza la partida con 2 jugadores.
+02/05/2025 14:08:34: Jugamos a 2 rondas
+02/05/2025 14:08:34: Inicio de Partida
+02/05/2025 14:08:34: Pregunta de Matemáticas
+02/05/2025 14:08:34: Pregunta de Matemáticas
+02/05/2025 14:08:34: Pregunta de Cronometro
+02/05/2025 14:08:34: Pregunta de Geografía
+02/05/2025 14:08:34: Se acabó la partida
+02/05/2025 14:08:39: Muestra historico
+02/05/2025 14:08:54: Muestra Ranking
+02/05/2025 14:12:01: Arranco la aplicación
+02/05/2025 14:12:01: Estamos en modo depuración: false
+02/05/2025 14:12:01: Tamaño de ranking: 10
+02/05/2025 14:12:07: Muestra historico
+02/05/2025 14:12:29: Abro menú de jugadores
+02/05/2025 14:12:34: Menu crear jugadores
+02/05/2025 14:12:38: Jugador humano creado: Jugador1  	1500
+02/05/2025 14:12:39: Jugador CPU creado: CPU2      	750
+02/05/2025 14:12:42: Salgo del menú jugadores
+02/05/2025 14:12:43: Comienzo partida
+02/05/2025 14:12:43: Comienza la partida con 2 jugadores.
+02/05/2025 14:12:44: Jugamos a 2 rondas
+02/05/2025 14:12:44: Inicio de Partida
+02/05/2025 14:12:44: Pregunta de Mastermind
+02/05/2025 14:12:44: Pregunta de Cronometro
+02/05/2025 14:12:44: Pregunta de Cronometro
+02/05/2025 14:12:44: Pregunta de Matemáticas
+02/05/2025 14:12:44: Se acabó la partida
+02/05/2025 14:20:10: Arranco la aplicación
+02/05/2025 14:20:10: Estamos en modo depuración: false
+02/05/2025 14:20:10: Tamaño de ranking: 10
+02/05/2025 14:20:13: Abro menú de jugadores
+02/05/2025 14:20:14: Menu crear jugadores
+02/05/2025 14:20:16: Jugador humano creado: Jugador1  	1500
+02/05/2025 14:20:17: Jugador CPU creado: CPU2      	750
+02/05/2025 14:20:18: Salgo del menú jugadores
+02/05/2025 14:20:19: Comienzo partida
+02/05/2025 14:20:19: Comienza la partida con 2 jugadores.
+02/05/2025 14:20:21: Jugamos a 2 rondas
+02/05/2025 14:20:21: Inicio de Partida
+02/05/2025 14:20:21: Pregunta de Geografía
+02/05/2025 14:20:21: Pregunta de Cronometro
+02/05/2025 14:20:21: Pregunta de Cronometro
+02/05/2025 14:20:21: Pregunta de Mastermind
+02/05/2025 14:20:21: Se acabó la partida
+02/05/2025 14:20:23: Muestra historico
+02/05/2025 14:21:15: Arranco la aplicación
+02/05/2025 14:21:15: Estamos en modo depuración: false
+02/05/2025 14:21:15: Tamaño de ranking: 10
+02/05/2025 14:21:21: Abro menú de jugadores
+02/05/2025 14:21:25: Menu crear jugadores
+02/05/2025 14:22:05: Jugador humano creado: rmenegild 	1500
+02/05/2025 14:22:08: Arranco la aplicación
+02/05/2025 14:22:08: Estamos en modo depuración: false
+02/05/2025 14:22:08: Tamaño de ranking: 10
+02/05/2025 14:22:10: Abro menú de jugadores
+02/05/2025 14:22:11: Menu crear jugadores
+02/05/2025 14:22:15: Jugador humano creado: assdsdfa  	1500
+02/05/2025 14:22:18: Jugador CPU creado: CPU1      	750
+02/05/2025 14:22:20: Salgo del menú jugadores
+02/05/2025 14:22:22: Comienzo partida
+02/05/2025 14:22:22: Comienza la partida con 2 jugadores.
+02/05/2025 14:22:24: Jugamos a 2 rondas
+02/05/2025 14:22:24: Inicio de Partida
+02/05/2025 14:22:24: Pregunta de Matemáticas
+02/05/2025 14:22:24: Pregunta de Matemáticas
+02/05/2025 14:22:24: Pregunta de Mastermind
+02/05/2025 14:22:24: Pregunta de Matemáticas
+02/05/2025 14:22:24: Se acabó la partida
+02/05/2025 14:22:25: Comienzo partida
+02/05/2025 14:22:25: Comienza la partida con 2 jugadores.
+02/05/2025 14:22:26: Jugamos a 6 rondas
+02/05/2025 14:22:26: Inicio de Partida
+02/05/2025 14:22:26: Pregunta de Cronometro
+02/05/2025 14:22:26: Pregunta de Matemáticas
+02/05/2025 14:22:26: Pregunta de Geografía
+02/05/2025 14:22:26: Pregunta de Mastermind
+02/05/2025 14:22:26: Pregunta de Geografía
+02/05/2025 14:22:26: Pregunta de Geografía
+02/05/2025 14:22:26: Pregunta de Geografía
+02/05/2025 14:22:26: Pregunta de Mastermind
+02/05/2025 14:22:26: Pregunta de Matemáticas
+02/05/2025 14:22:26: Pregunta de Matemáticas
+02/05/2025 14:22:26: Pregunta de Mastermind
+02/05/2025 14:22:26: Pregunta de Geografía
+02/05/2025 14:22:26: Se acabó la partida
+02/05/2025 14:22:29: Muestra historico
+02/05/2025 14:22:41: Muestra Ranking
+02/05/2025 14:22:57: Comienzo partida
+02/05/2025 14:22:57: Comienza la partida con 2 jugadores.
+02/05/2025 14:23:02: Jugamos a 5 rondas
+02/05/2025 14:23:02: Inicio de Partida
+02/05/2025 14:23:02: Pregunta de Matemáticas
+02/05/2025 14:23:02: Pregunta de Mastermind
+02/05/2025 14:23:02: Pregunta de Matemáticas
+02/05/2025 14:23:02: Pregunta de Mastermind
+02/05/2025 14:23:02: Pregunta de Cronometro
+02/05/2025 14:23:02: Pregunta de Cronometro
+02/05/2025 14:23:02: Pregunta de Geografía
+02/05/2025 14:23:02: Pregunta de Matemáticas
+02/05/2025 14:23:02: Pregunta de Mastermind
+02/05/2025 14:23:02: Pregunta de Cronometro
+02/05/2025 14:23:02: Se acabó la partida
+02/05/2025 14:23:04: Abro menú de jugadores
+02/05/2025 14:23:05: Menu crear jugadores
+02/05/2025 14:23:23: Jugador humano creado: Jugador1  	1500
+02/05/2025 14:23:24: Jugador CPU creado: CPU2      	750
+02/05/2025 14:23:26: Menu crear jugadores
+02/05/2025 14:23:30: Jugador humano creado: Jugador3  	1500
+02/05/2025 14:23:31: Jugador CPU creado: CPU1      	750
+02/05/2025 14:23:48: Jugador humano creado: carlos    	1500
+02/05/2025 14:23:50: Jugador CPU creado: CPU4      	750
+02/05/2025 14:23:53: Salgo del menú jugadores
+02/05/2025 14:23:56: Comienzo partida
+02/05/2025 14:23:56: Comienza la partida con 4 jugadores.
+02/05/2025 14:23:58: Jugamos a 8 rondas
+02/05/2025 14:23:58: Inicio de Partida
+02/05/2025 14:23:58: Pregunta de Cronometro
+02/05/2025 14:23:58: Pregunta de Cronometro
+02/05/2025 14:23:58: Pregunta de Cronometro
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Matemáticas
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Matemáticas
+02/05/2025 14:23:58: Pregunta de Geografía
+02/05/2025 14:23:58: Pregunta de Cronometro
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Cronometro
+02/05/2025 14:23:58: Pregunta de Matemáticas
+02/05/2025 14:23:58: Pregunta de Geografía
+02/05/2025 14:23:58: Pregunta de Cronometro
+02/05/2025 14:23:58: Pregunta de Matemáticas
+02/05/2025 14:23:58: Pregunta de Geografía
+02/05/2025 14:23:58: Pregunta de Geografía
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Geografía
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Matemáticas
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Matemáticas
+02/05/2025 14:23:58: Pregunta de Matemáticas
+02/05/2025 14:23:58: Pregunta de Mastermind
+02/05/2025 14:23:58: Pregunta de Cronometro
+02/05/2025 14:23:58: Pregunta de Geografía
+02/05/2025 14:23:58: Se acabó la partida
+02/05/2025 14:24:00: Muestra historico
+02/05/2025 14:24:07: Muestra Ranking
+02/05/2025 14:24:18: Abro menú de jugadores
+02/05/2025 14:24:19: Menu crear jugadores
+02/05/2025 14:24:31: Jugador humano creado: XBUB      	1500
+02/05/2025 14:24:33: Jugador CPU creado: CPU2      	750
+02/05/2025 14:24:55: Salgo del menú jugadores
+02/05/2025 14:24:57: Comienzo partida
+02/05/2025 14:24:57: Comienza la partida con 2 jugadores.
+02/05/2025 14:24:59: Jugamos a 5 rondas
+02/05/2025 14:24:59: Inicio de Partida
+02/05/2025 14:24:59: Pregunta de Cronometro
+02/05/2025 14:24:59: Pregunta de Cronometro
+02/05/2025 14:24:59: Pregunta de Geografía
+02/05/2025 14:24:59: Pregunta de Matemáticas
+02/05/2025 14:24:59: Pregunta de Matemáticas
+02/05/2025 14:24:59: Pregunta de Geografía
+02/05/2025 14:24:59: Pregunta de Matemáticas
+02/05/2025 14:24:59: Pregunta de Mastermind
+02/05/2025 14:24:59: Pregunta de Cronometro
+02/05/2025 14:24:59: Pregunta de Matemáticas
+02/05/2025 14:24:59: Se acabó la partida
+02/05/2025 14:25:01: Muestra Ranking
+02/05/2025 14:25:32: Arranco la aplicación
+02/05/2025 14:25:32: Estamos en modo depuración: false
+02/05/2025 14:25:32: Tamaño de ranking: 10
+02/05/2025 14:25:34: Abro menú de jugadores
+02/05/2025 14:25:35: Menu crear jugadores
+02/05/2025 14:25:37: Jugador humano creado: Jugador2  	1500
+02/05/2025 14:25:42: Jugador humano creado: Jugador1  	1500
+02/05/2025 14:25:44: Salgo del menú jugadores
+02/05/2025 14:25:45: Comienzo partida
+02/05/2025 14:25:45: Comienza la partida con 2 jugadores.
+02/05/2025 14:25:46: Jugamos a 5 rondas
+02/05/2025 14:25:46: Inicio de Partida
+02/05/2025 14:25:46: Pregunta de Mastermind
+02/05/2025 14:25:46: Pregunta de Matemáticas
+02/05/2025 14:25:46: Pregunta de Mastermind
+02/05/2025 14:25:46: Pregunta de Cronometro
+02/05/2025 14:25:46: Pregunta de Matemáticas
+02/05/2025 14:25:46: Pregunta de Geografía
+02/05/2025 14:25:46: Pregunta de Cronometro
+02/05/2025 14:25:46: Pregunta de Mastermind
+02/05/2025 14:25:46: Pregunta de Mastermind
+02/05/2025 14:25:46: Pregunta de Matemáticas
+02/05/2025 14:25:46: Se acabó la partida
+02/05/2025 14:25:50: Muestra Ranking
+02/05/2025 14:26:25: Abro menú de jugadores
+02/05/2025 14:26:26: Menu crear jugadores
+02/05/2025 14:26:29: Jugador humano creado: Jugador2  	1500
+02/05/2025 14:26:31: Jugador CPU creado: CPU1      	750
+02/05/2025 14:26:33: Salgo del menú jugadores
+02/05/2025 14:26:35: Comienzo partida
+02/05/2025 14:26:35: Comienza la partida con 2 jugadores.
+02/05/2025 14:26:37: Jugamos a 5 rondas
+02/05/2025 14:26:37: Inicio de Partida
+02/05/2025 14:26:37: Pregunta de Matemáticas
+02/05/2025 14:26:37: Pregunta de Mastermind
+02/05/2025 14:26:37: Pregunta de Matemáticas
+02/05/2025 14:26:37: Pregunta de Cronometro
+02/05/2025 14:26:37: Pregunta de Matemáticas
+02/05/2025 14:26:37: Pregunta de Geografía
+02/05/2025 14:26:37: Pregunta de Matemáticas
+02/05/2025 14:26:37: Pregunta de Cronometro
+02/05/2025 14:26:37: Pregunta de Geografía
+02/05/2025 14:26:37: Pregunta de Mastermind
+02/05/2025 14:26:37: Se acabó la partida
+02/05/2025 14:26:39: Muestra Ranking
+02/05/2025 14:27:11: Arranco la aplicación
+02/05/2025 14:27:11: Estamos en modo depuración: false
+02/05/2025 14:27:11: Tamaño de ranking: 10
+02/05/2025 14:27:33: Arranco la aplicación
+02/05/2025 14:27:33: Estamos en modo depuración: false
+02/05/2025 14:27:33: Tamaño de ranking: 10
+02/05/2025 14:27:37: Abro menú de jugadores
+02/05/2025 14:27:38: Menu crear jugadores
+02/05/2025 14:27:47: Jugador humano creado: laura     	1500
+02/05/2025 14:27:53: Jugador CPU creado: CPU2      	750
+02/05/2025 14:27:58: Salgo del menú jugadores
+02/05/2025 14:27:59: Comienzo partida
+02/05/2025 14:27:59: Comienza la partida con 2 jugadores.
+02/05/2025 14:27:59: Jugamos a 5 rondas
+02/05/2025 14:27:59: Inicio de Partida
+02/05/2025 14:27:59: Pregunta de Mastermind
+02/05/2025 14:27:59: Pregunta de Mastermind
+02/05/2025 14:27:59: Pregunta de Mastermind
+02/05/2025 14:27:59: Pregunta de Cronometro
+02/05/2025 14:27:59: Pregunta de Matemáticas
+02/05/2025 14:27:59: Pregunta de Cronometro
+02/05/2025 14:27:59: Pregunta de Geografía
+02/05/2025 14:27:59: Pregunta de Cronometro
+02/05/2025 14:27:59: Pregunta de Matemáticas
+02/05/2025 14:27:59: Pregunta de Cronometro
+02/05/2025 14:27:59: Se acabó la partida
+02/05/2025 14:28:00: Muestra Ranking
+02/05/2025 15:06:24: Arranco la aplicación
+02/05/2025 15:06:24: Estamos en modo depuración: true
+02/05/2025 15:06:24: Tamaño de ranking: 10
+02/05/2025 15:06:29: Abro menú de jugadores
+02/05/2025 15:06:30: Menu borrar jugador
+02/05/2025 15:06:40: Menu crear jugadores
+02/05/2025 15:07:05: Jugador humano creado: Laura     	1500
+02/05/2025 15:07:08: Jugador CPU creado: CPU2      	750
+02/05/2025 15:07:11: Salgo del menú jugadores
+02/05/2025 15:07:14: Abro menú de jugadores
+02/05/2025 15:07:15: Menu borrar jugador
+02/05/2025 15:07:25: Jugador LauRa eliminado
+02/05/2025 15:07:28: Muestro lista de jugadores
+02/05/2025 15:07:37: Salgo del menú jugadores
+02/05/2025 15:07:40: Paro la aplicación
+02/05/2025 15:08:36: Arranco la aplicación
+02/05/2025 15:08:36: Estamos en modo depuración: true
+02/05/2025 15:08:36: Tamaño de ranking: 10
+02/05/2025 15:08:40: Abro menú de jugadores
+02/05/2025 15:08:41: Menu crear jugadores
+02/05/2025 15:08:52: Jugador humano creado: Laura     	1500
+02/05/2025 15:08:55: Jugador CPU creado: CPU1      	750
+02/05/2025 15:08:57: Muestro lista de jugadores
+02/05/2025 15:09:35: Menu borrar jugador
+02/05/2025 15:12:55: Arranco la aplicación
+02/05/2025 15:12:55: Estamos en modo depuración: true
+02/05/2025 15:12:55: Tamaño de ranking: 10
+02/05/2025 15:12:57: Abro menú de jugadores
+02/05/2025 15:12:58: Menu crear jugadores
+02/05/2025 15:13:04: Jugador humano creado: laura     	1500
+02/05/2025 15:13:07: Jugador CPU creado: CPU1      	750
+02/05/2025 15:13:09: Menu borrar jugador
+02/05/2025 15:18:14: Arranco la aplicación
+02/05/2025 15:18:14: Estamos en modo depuración: true
+02/05/2025 15:18:14: Tamaño de ranking: 10
+02/05/2025 15:18:18: Abro menú de jugadores
+02/05/2025 15:18:18: Menu crear jugadores
+02/05/2025 15:18:29: Jugador humano creado: laurA     	1500
+02/05/2025 15:18:32: Jugador CPU creado: CPU1      	750
+02/05/2025 15:18:34: Menu borrar jugador
+02/05/2025 15:19:17: Jugador LaurA eliminado
+02/05/2025 15:19:23: Muestro lista de jugadores
+02/05/2025 15:19:28: Salgo del menú jugadores
+02/05/2025 15:19:30: Muestra Ranking
+02/05/2025 16:47:59: Arranco la aplicación
+02/05/2025 16:47:59: Estamos en modo depuración: true
+02/05/2025 16:47:59: Tamaño de ranking: 10
+02/05/2025 16:48:03: Abro menú de jugadores
+02/05/2025 16:48:04: Menu crear jugadores
+02/05/2025 16:48:06: Jugador humano creado: Jugador2  	0
+02/05/2025 16:48:07: Jugador CPU creado: CPU1      	0
+02/05/2025 16:48:09: Salgo del menú jugadores
+02/05/2025 16:48:11: Comienzo partida
+02/05/2025 16:48:11: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+02/05/2025 16:48:15: Jugamos a 1 rondas
+02/05/2025 16:48:15: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+02/05/2025 16:48:15: Pregunta de Matemáticas
+02/05/2025 16:48:15: Pregunta de Geografía
+02/05/2025 16:48:15: Fin de partida con 2 jugadores. Ganador ha sido CPU1
+02/05/2025 16:48:25: Muestra Ranking
+02/05/2025 16:49:04: Arranco la aplicación
+02/05/2025 16:49:04: Estamos en modo depuración: true
+02/05/2025 16:49:04: Tamaño de ranking: 10
+02/05/2025 16:49:08: Abro menú de jugadores
+02/05/2025 16:49:09: Menu crear jugadores
+02/05/2025 16:49:11: Jugador humano creado: Jugador2  	0
+02/05/2025 16:49:12: Jugador CPU creado: CPU1      	0
+02/05/2025 16:49:20: Salgo del menú jugadores
+02/05/2025 16:49:22: Comienzo partida
+02/05/2025 16:49:22: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+02/05/2025 16:49:24: Jugamos a 1 rondas
+02/05/2025 16:49:24: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+02/05/2025 16:49:24: Pregunta de Matemáticas
+02/05/2025 16:49:24: Pregunta de Mastermind
+02/05/2025 16:50:43: Fin de partida con 2 jugadores. Ganador ha sido CPU1
+02/05/2025 16:51:06: Arranco la aplicación
+02/05/2025 16:51:06: Estamos en modo depuración: true
+02/05/2025 16:51:06: Tamaño de ranking: 10
+02/05/2025 16:51:12: Abro menú de jugadores
+02/05/2025 16:51:13: Menu crear jugadores
+02/05/2025 16:51:16: Jugador humano creado: Jugador1  	0
+02/05/2025 16:51:17: Jugador CPU creado: CPU2      	0
+02/05/2025 16:51:18: Salgo del menú jugadores
+02/05/2025 16:51:20: Comienzo partida
+02/05/2025 16:51:20: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+02/05/2025 16:51:22: Jugamos a 1 rondas
+02/05/2025 16:51:22: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+02/05/2025 16:51:22: Pregunta de Cronometro
+02/05/2025 16:51:22: Pregunta de Cronometro
+02/05/2025 16:51:22: Fin de partida con 2 jugadores. Ha habido empate. Consulte el histórico para más información
+02/05/2025 16:55:01: Arranco la aplicación
+02/05/2025 16:55:01: Estamos en modo depuración: true
+02/05/2025 16:55:01: Tamaño de ranking: 10
+02/05/2025 16:55:03: Abro menú de jugadores
+02/05/2025 16:55:05: Menu crear jugadores
+02/05/2025 16:55:07: Jugador humano creado: Jugador1  	0
+02/05/2025 16:55:08: Jugador CPU creado: CPU2      	0
+02/05/2025 16:55:10: Salgo del menú jugadores
+02/05/2025 16:55:12: Comienzo partida
+02/05/2025 16:55:12: Comienza la partida con 2 jugadores: 1 jugadores humanos, 1 jugadores de CPU
+02/05/2025 16:55:14: Jugamos a 1 rondas
+02/05/2025 16:55:14: Inicio partida con 1 jugadores humanos, 1 jugadores de CPU
+02/05/2025 16:55:14: Pregunta de Geografía
+02/05/2025 16:55:14: Pregunta de Geografía
+02/05/2025 16:55:14: Fin de partida con 2 jugadores. Ha habido empate: Jugador1 - CPU2 Consulte el histórico para más información
+02/05/2025 16:55:23: Paro la aplicación
